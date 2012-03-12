@@ -1,0 +1,17 @@
+Before Captain Chesley B. Sullenberger III glided US Airways Flight 1549 into the Hudson River in January, the makers of the jet had never asked pilots to try such a maneuver on a computer simulator. Afterward, when they did, pilots found it an extremely difficult feat to accomplish.
+
+“The word ‘demanding’ is probably just a tiny bit understated,” said Terry Lutz, experimental test pilot at Airbus, which built the A320 that Captain Sullenberger brought into the Hudson, allowing all 155 people on board to escape safely. Mr. Lutz spoke Wednesday during the second day of National Transportation Safety Board hearings on the crash, which occurred after birds knocked out both engines on the A320 just minutes into the flight.
+
+Simulators would be the main tool if airlines trained their pilots for such events, because simulation is the only method for giving pilots experience in high-risk procedures, but their accuracy for extreme situations like this one is uncertain, engineers said, since there is not much data on how airplanes behave in water.
+
+The challenge for the pilot of such a plane is to arrive at the water’s surface moving as slowly as possible, horizontally and vertically, without engines to add momentum, and that it may be impossible to do that the way the Federal Aviation Administration assumes under the rules it uses to certify the safety of a plane.
+
+Asked whether a typical pilot, without special training, could easily land a plane in circumstances like those faced by Flight 1549, Captain Hugues Van Der Stichel, vice president for experimental fight test at Airbus, said, “The answer is no.”
+
+Witnesses from Airbus and the F.A.A. tangled with safety board experts over whether the event constituted a “ditching,” a type of landing that the airplane is required, according to aviation rules, to survive with minimal damage. Airbus officials said “ditching” implied more planning than was the case here.
+
+“If we want to call this a ditching, we’re going to have to scrap everything we’ve done in the past,” said Bob Breneman, a manager at the F.A.A., who argued that the event qualified as a success. “This aircraft did as expected,” he said. “Under the circumstances, yes, there was structural damage, but the passengers survived. What we are seeing is what we hoped to see, in forced crash landings.”
+
+But Jason Fedok, an investigator with the safety board, implied that the design of the plane was wrong, since damage in the back was highly likely, which would make the rafts unavailable. “What I saw in this accident was the loss of half the slide rafts, in the back of this plane, and a whole lot of people standing on the wings waiting for ferries to come rescue them,” he said.
+
+The plane that crashed had rafts and life jackets because it was equipped for over-water operations, but planes on that route, La Guardia Airport to Charlotte, N.C., are not required to be equipped that way, safety board officials pointed out. 

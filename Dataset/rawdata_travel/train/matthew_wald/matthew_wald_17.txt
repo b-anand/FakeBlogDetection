@@ -1,0 +1,27 @@
+The Department of Homeland Security has spent $230 million to develop better technology for detecting smuggled nuclear bombs but has had to stop deploying the new machines because the United States has run out of a crucial raw material, experts say.
+
+The ingredient is helium 3, an unusual form of the element that is formed when tritium, an ingredient of hydrogen bombs, decays. But the government mostly stopped making tritium in 1989.
+
+“I have not heard any explanation of why this was not entirely foreseeable,” said Representative Brad Miller, Democrat of North Carolina, who is the chairman of a House subcommittee that is investigating the problem.
+
+An official from the Homeland Security Department testified last week before Mr. Miller’s panel, the Investigations and Oversight Subcommittee of the House Science Committee, that demand for helium 3 appeared to be 10 times the supply.
+
+Some government agencies, Mr. Miller said, did anticipate a crisis, but the Homeland Security Department appears not to have gotten the message.
+
+The department had planned a worldwide network using the new detectors, which were supposed to detect plutonium or uranium in shipping containers. The government wanted 1,300 to 1,400 machines, which cost $800,000 each, for use in ports around the world to thwart terrorists who might try to deliver a nuclear bomb to a big city by stashing it in one of the millions of containers that enter the United States every year.
+
+At the White House, Steve Fetter, an assistant director of the Office of Science and Technology Policy, said the helium 3 problem was short-term because other technologies would be developed. But, he said, while the government had a large surplus of helium 3 at the end of the cold war, “people should have been aware that this was a one-time windfall and was not sustainable.”
+
+Helium 3 is not hazardous or even chemically reactive, and it is not the only material that can be used for neutron detection. The Homeland Security Department has older equipment that can look for radioactivity, but it does not differentiate well between bomb fuel and innocuous materials that naturally emit radiation — like cat litter, ceramic tiles and bananas — and sounds false alarms more often.
+
+Earlier this year, the Pacific Northwest National Laboratory, part of the Energy Department, said in a report, “No other currently available detection technology offers the stability, sensitivity and gamma/neutron discrimination” of detectors using helium 3.
+
+Helium 3 is used to detect neutrons, the subatomic particles that sustain the chain reaction in a bomb or a reactor. Plutonium, the favorite bomb-making material of most governments with nuclear weapons, intermittently gives off neutrons, which are harder for a smuggler to hide than other forms of radiation. (Detecting the alternative bomb fuel, enriched uranium, is a separate, difficult problem, experts say.)
+
+Helium 3 is rare in nature, but the Energy Department accumulated a substantial stockpile as a byproduct of maintaining nuclear weapons. Those weapons use tritium, which is the form of hydrogen used in the H-bomb, but the hydrogen decays into helium 3 at the rate of 5.5 percent a year. For that reason the tritium in each bomb has to be removed, purified and replenished every few years. It is purified by removing the helium 3.
+
+The declining supply is also needed for physics research and medical diagnostics.
+
+The Energy Department used to make tritium in reactors at its Savannah River Site, near Aiken, S.C., but those were shut after many operational problems. It enlisted the Tennessee Valley Authority to make some tritium in a power reactor, using the same method it had used at Savannah River, breaking up another material, a form of lithium, with neutrons. One of the fragments is tritium. But that project has run into technical problems as well.
+
+Mr. Miller estimated that demand for helium 3 was about 65,000 liters per year through 2013 and that total production by the only two countries that produce it in usable form, the United States and Russia, was only about 20,000 liters. In a letter to President Obama, he called the shortage “a national crisis” and said the price had jumped to $2,000 a liter from $100 in the last few years, which threatens scientific research.

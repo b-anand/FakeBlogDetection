@@ -1,0 +1,55 @@
+ELECTRIC cars are coming in big numbers for the first time. Again.
+
+The prediction has been here before, almost every time governments have worried about oil supplies and air pollution. Manufacturers dabbled with electrics after the oil shock of 1979-80. In the 1990s, California said it would require their sale to address its almost intractable air pollution problem. But the technology was not ready, and the state gave up.
+
+Now, the federal government is throwing $2.4 billion in Recovery Act grants at the problem, subsidizing battery factories as well as research. And the car industry has inched closer; the required electronics are in wide use in hybrid cars, which combine small batteries and small electric motors with almost-conventional gasoline drivetrains.
+
+There are now almost a million Toyota Priuses on the road and thousands of hybrids built by other manufacturers. Hundreds of the Priuses have already been converted to plug-in hybrids, in which some of the electricity comes from plugging into the grid rather than using the gasoline engine to drive a generator. And next year, General Motors plans to introduce a plug-in that will go the first 40 miles, more than most people drive a day, on electricity. Significantly, it is a Chevrolet, a mass market nameplate. The company may sell only a few thousand at first, but it hopes for tens of thousands of sales in the 2012 model year.
+
+Supporters, many of them not rooted in the car industry, are predicting a triumph. “It’s going to be like the iPhone,” said Bruce Nilles, an energy and pollution expert at the Sierra Club. “It’s a very symbolic thing people can do to get off oil. I think people are underestimating how consumers are going to flock to an oil-free option.”
+
+But the cars are expensive. The after-market kit to convert the Prius to plug-in, with a battery pack that sits where Toyota intended the spare tire to go, sells for $10,000, including installation.
+
+The pricing of the Chevrolet entry, the Volt, has not been announced. But electric utility companies that plan to buy 5 or 10 for evaluation say they expect it to be in the range of $35,000, expensive for a Chevrolet that seats four and is not quite as big as a Cobalt.
+
+The federal government and many states and localities are offering incentives. And automakers are doing their best to add to the buzz. General Motors, for example, brought out a Volt at the opening in September of a “zero carbon” house in Arlington, Va., where Tony Posawatz, director of the Volt vehicle line, told a crowd of local officials it was a “thrilling, game-changing product.” They all but drooled over it.
+
+The enthusiasm was palpable even though the car did not move; the only dynamic moment was when a G.M. aide opened one of its two fueling ports — the one for electricity, not gasoline — and plugged it in.
+
+The car will carry a 16 kilowatt-hour battery, which is about the amount of power that a suburban house uses in 12 hours. But it will use only half that amount before the gasoline engine kicks in. Not fully charging or discharging is a way to baby the battery and have it last 120,000 miles.
+
+After 40 miles, a gasoline engine starts turning a generator to make electricity for the motor. That, according to G.M., makes it an electric without “range anxiety.”
+
+A few pure electric cars are already offered, and more are coming. But at the moment, their price does not make them big sellers.
+
+When is an electric car worth the cost, for the owner or for the environment?
+
+The math works out differently depending on the vehicle design. The Volt, for instance, is supposed to go about five miles on a kilowatt-hour, a unit of energy that sells for about 11 cents at retail and is sufficient to keep a 100-watt light bulb burning for 10 hours.
+
+At that price for electricity, driving a mile costs about 2 cents. With an off-peak electric rate, it could easily be 1 cent. A typical sedan that gets 25 miles a gallon in mixed city and highway driving costs 12 cents a mile if gasoline costs $3 a gallon.
+
+That looks good for slowing global warming, too. Burning a gallon of gasoline produces about 20 pounds of carbon dioxide, and refining and delivering that gallon produces about 2 more, so at 39 miles a gallon, such a car would produce 0.56 pound of carbon dioxide per mile. Since cars on the road generally do not get the mileage promised in the window sticker, a gallon would actually propel a car a slightly shorter distance and the corresponding carbon output per mile would be slightly higher.
+
+By contrast, the average kilowatt-hour results in the release of about 1.5 pounds of carbon dioxide, so at 5 miles per kilowatt-hour, carbon dioxide would be emitted at a rate of about 0.3 pound per mile, or a little more than half as much as the gasoline car.
+
+The Prius’s math is a bit harder to calculate. With the plug-in module installed, it will continue to run on electricity at low speed and on both gasoline and electricity when the car faces a hill or a driver with a heavy foot. But the car will not burn gasoline to recharge the battery until the plug-in unit is exhausted.
+
+Leslie J. Goldman, a lawyer who drives his plug-in Prius every day between his home just north of Washington and his office downtown, said that he got 35 miles a gallon before he had the unit installed and that the average rose to over 100. As with the Volt, that sharp jump would be much smaller if his daily trip were beyond the range of the battery.
+
+But Mr. Goldman, who represents the company that makes the plug-in kit, A123, said the benefit was more psychological than financial. When he gets home, he said, “I take my briefcase out, I put the extension cord in and I feel very patriotic.”
+
+Senators Lamar Alexander, Republican of Tennessee, and John Kerry, Democrat of Massachusetts, have plug-in Priuses, Mr. Goldman said, along with “a whole bunch of others in Congress.”
+
+David B. Sandalow, assistant energy secretary for policy and international affairs, drives one, too, and recently edited a book, “Plug-In Vehicles: What Role for Washington?” published by the Brookings Institution, where he worked before going into the government. With enough electric vehicles, Mr. Sandalow wrote, “oil’s status as a strategic commodity would be threatened.”
+
+Mr. Sandalow said he bought his plug-in Prius in summer 2008 and got about 80 miles a gallon on his 5-mile trip to work and on errands. He said he hoped for strong sales for the Volt. “I think some day my grandchildren will say to my children, ‘You mean you couldn’t plug in cars when you were young — that’s so weird!’ ” he said.
+
+THAT might not move a lot of buyers. Consumer Reports magazine said this year that the plug-in Prius was a really encouraging development — but not to buy one. The conversion to plug-in, it said, “is meant to give a glimpse of an emerging technology, rather than present a viable alternative to a current car.”
+
+It is not obvious whether the electric system is ready, either. For one thing, drivers who do not have a garage, or at least a house with an exterior electric outlet, would be hard-pressed to find a place to plug in for several hours a day.
+
+For another, all the theorists talk about a “smart grid” that will communicate with the car automatically. The idea is to have the car draw its current in off-peak hours. Electric companies have lots of spare capacity, mostly at night, and see the plug-ins as a boon, unless owners arrive home from work at a peak hour and plug in immediately, in which case the electric companies would have to build more power plants.
+
+But this smart grid concept of appliances that communicate with grid managers is not yet in place. So the first Volts, which the company said would be mass produced beginning in November 2010, will come with a simple timer: the driver plugs it in and sets it to charge for a set period, some hours in the future.
+
+“Like your lawn sprinkler,” said Mr. Posawatz, of G.M.

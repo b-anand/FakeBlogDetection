@@ -1,0 +1,23 @@
+Even though nobody died, the crash of US Airways Flight 1549 into the Hudson River has exposed shortcomings in aviation safety, in areas like training and life rafts.
+
+“It’s a tremendous learning opportunity,” said Robert L. Sumwalt, the member of the National Transportation Safety Board who supervised two and a half days of hearings in Washington that ended Thursday. “You don’t judge the potential learning on the size of the body count.”
+
+In fact, old hands at the safety board said they could not recall any previous occasion when hearings were convened for a crash with no fatalities. But from the tenor of the testimony and the questioning, a number of safety recommendations seem likely. Many of the assumptions on which safety rules are based seem outdated, or were perhaps wrong to begin with.
+
+One is the likelihood of a twin-engine jet taking in birds in both engines, which caused the crash of the Airbus A320 carrying Flight 1549.
+
+The Federal Aviation Administration’s goal regarding bird strikes is to limit the number of times that both engines on an twin-engine jet fail to no more than once in a billion flight hours. But the number of hours logged by all Western-built airliners since the beginning of the jet age is not much more than a billion, and the US Airways crash, on Jan. 15, came two months after a Boeing 737 operated by Ryanair, a European carrier, was disabled by birds near Rome. The 737 landed on a runway, with extensive damage, and five people were injured in the emergency evacuation. Before that, the most recent accident involving birds in both engines on a civilian passenger airliner was in 1988, when an Ethiopian plane crashed.
+
+The population of large birds in North America and other regions is rising because of the near-global ban on DDT, a pesticide that accumulated in birds and made their eggs too fragile to hatch, according to testimony at the hearing. At the hearing, witnesses testified that 14 species of birds in North America weigh more than eight pounds, and 13 of them are increasing in number. F.A.A. standards, though, are based on a database of bird strikes going back many years, when the population of large birds was lower.
+
+And while those testifying at the hearing praised the performance of the cockpit and cabin crews on the US Airways flight, they did not deploy two crucial pieces of equipment carried on the plane for water landings. One was safety lines, which can be pulled out of the plane and looped around metal eyelets on the top of the wing so that passengers standing there will have something to hold. The wings were crowded with passengers, standing knee-deep in water, but the lines were not used.
+
+The other was the rear slide rafts. The rear doors were rendered useless by the force of the impact, which let water into the back of the plane and left the doors partly submerged, but the rafts were supposed to be available. The front rafts would have accommodated only about two-thirds of the 155 people on board, so if help had not shown up promptly, the plane would have resembled the Titanic, with more passengers than lifeboat space.
+
+Another question raised at the hearings but not deeply examined was the role of “fly by wire” technology in the A320. In the Airbus design, a computer sits between the cockpit controls and the flight control surfaces, like the flaps, ailerons and tail elevators, and prevents any movement that would shift the plane to a radical angle. That system kept functioning even after the engines quit.
+
+Investigators said the A320 flew its last few seconds at an angle that was perfect for maximizing lift, just before the point where its angle to the wind would become too steep and it would fall out of the sky. A human pilot could do that unassisted, but not as smoothly, and the captain, Chesley B. Sullenberger III, did it by holding a joystick control in the full aft position, knowing that the computer would step in to prevent the nose from going dangerously high. The technique is similar to the maneuver taken by a driver who stomps on the brakes, knowing that the anti-skid technology will prevent the wheels from locking.
+
+That reduced Captain Sullenberger’s workload, leaving him freer to focus on other vital tasks, like keeping the wings level.
+
+The hearings also revealed a need to better acquaint pilots with the problems of setting down on water; Airbus executives said experienced test pilots had found it hard to do in a simulator.

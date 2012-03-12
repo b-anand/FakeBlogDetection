@@ -1,0 +1,29 @@
+The federal government is slowly rolling out technology meant to protect airplanes against the kind of collision that occurred over the Hudson River on Saturday. But as currently set up, the emerging system would not work well in New York.
+
+The technology gives pilots a screen with a moving map showing their position, as well as those of other planes in flight. It can show the distance to other planes, and whether that distance is increasing or decreasing; it can also show the altitude difference, and whether that is increasing or decreasing.
+
+In crowded airspace, “the increased situational awareness for the pilot is invaluable,” said David Zwegers, director of flight safety at Embry-Riddle Aeronautical University in Daytona Beach, Fla., which has equipped all 75 of its single- and twin-engine planes with the screen. The system can warn a pilot if his plane is on a collision course with another, and give an aural or visual warning, he said.
+
+But for a plane to be visible on another airplane’s screen, experts say, it has to be either equipped with the system or visible to the Federal Aviation Administration’s radars, and some aircraft flying low over the Hudson are neither.
+
+The F.A.A. has been pursuing the system for years, mostly as a way to cut air-traffic delays. If all planes have such a system installed, they can safely fly somewhat closer to each other, landing in tighter sequence, increasing the capacity of a runway.
+
+The system is built using two other systems: the Global Positioning System, which is now familiar to many car drivers, and the transponder, a robot radio carried on most planes that broadcasts the aircraft’s identity and altitude. From the timing of that broadcast, the F.A.A. can determine the aircraft’s position.
+
+The newer system is called Automatic Dependent Surveillance-Broadcast, known as ADS-B. The plane is under surveillance and responds automatically, and broadcasts its location, as determined by on-board GPS.
+
+If two airplanes are equipped with ADS-B, each will have a moving-map screen on its control panel and will show up as a blip on the other plane’s screen. If a third plane is in the area and has only a standard transponder, the F.A.A. radar can see that third plane and a ground station can broadcast that information to the planes equipped with ADS-B.
+
+The technology was first tried on a large scale in Alaska, which has a high accident rate and not much radar. “We fly inside fjords, inside channels in southeastern Alaska, where radar wouldn’t work,” said Leonard F. Kirk, assistant director of the aviation technology division at the University of Alaska, in Anchorage. He said accident rates in planes equipped with the technology were down 48 percent, partly because the system also gives weather information, and keeps planes from flying into mountains.
+
+Richard E. Sewell, an aviation policy planner with the state’s Transportation Department, said that a mid-air collision last year between two single-engine planes near Wasilla “would have been completely avoidable” if the planes had had ADS-B equipment.
+
+“I can’t imagine flying over the Hudson without having some kind of ADS-B technology now,” he said.
+
+The F.A.A. is installing ground stations in Louisville, Ky., and Philadelphia.
+
+The problem in New York is that low-altitude airspace over the Hudson does not have full conventional radar coverage, so some planes that do not have ADS-B would not be visible. The alternative would be to require all aircraft to have ADS-B, at a cost of about $15,000 per plane or helicopter.
+
+The F.A.A. has proposed requiring such equipment for some planes, mostly the kind that use congested airports. But it has set goals many years in the future. Congress is considering whether to require airlines to install the equipment more promptly.
+
+Officials in Alaska have discussed whether to require the technology on all planes using state airports, which most planes there do. But that tactic would not work in New York; very few of the small planes over the Hudson ever land at La Guardia or Kennedy International Airports.

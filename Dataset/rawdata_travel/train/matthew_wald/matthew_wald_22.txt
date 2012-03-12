@@ -1,0 +1,25 @@
+Two pieces of evidence have emerged that lend new credence to the theory that the Air France jet that crashed more than a week ago broke up in flight.
+
+Bodies have been recovered more than 50 miles apart.
+
+The Brazilian Air Force released information on Tuesday night showing that bodies from Flight 447 had been recovered from locations that were more than 50 miles apart. And Airbus, the plane’s manufacturer, sent its airline customers a bulletin saying a re-analysis of the stricken plane’s last automatic transmissions reinforced the idea that many parts malfunctioned, but that the parts that measure air speed may have failed first.
+
+A faulty air speed indicator could mislead pilots into flying faster than the aircraft could withstand, or faster than it should be flown into turbulence — two circumstances that could lead to the craft coming apart in flight.
+
+The theory will remain just that, however, until more evidence is collected. The black boxes that contain data and voice recordings are likely to be the key to resolving the mystery of what happened to the plane, which was carrying 228 people. According to news service reports, the French nuclear attack submarine Émeraude, with a crew of 72 men, has joined two sonar-detecting surface vessels in the search for the boxes. Each vessel is able to sweep a narrow strip of ocean for the “pings” emitted by the boxes and audible for a distance of no more than three miles under ideal conditions.
+
+In its message sent to airlines this week, Airbus said that no data was available beyond the automatic transmissions from the Air France jet, but it appeared that the manufacturer was fitting those messages into a scenario that began with the air speed problem. It said those messages “indicate that there was unreliable air speed indication” and that that situation was “consolidated” by messages indicating other failures that would be consequences of such a failure.
+
+The Web site of The Wall Street Journal, WSJ.com, first reported on the Airbus bulletin.
+
+Airbus evidently did not fit all the messages into a clear sequence. It said one message showed a change of cabin pressure equal to an altitude change of greater than 1,800 feet per minute “which remains to be explained.” One explanation would be cabin depressurization.
+
+Perhaps to reassure airlines, Airbus said the data did not suggest a loss of the computerized instrument display, or the Air Data Inertial Reference Unit, which helps planes locate their positions and which has had problems on other A330s.
+
+Long before the crash, Airbus had recommended that airlines replace parts, called Pitot tubes, that scoop in air to help planes measure their air speed. The company said in its new message that for now, airlines could continue flying with older Pitot tubes.
+
+The Federal Aviation Administration sometimes makes such manufacturer recommendations mandatory, as air worthiness directives, but Laura J. Brown, an agency spokeswoman, said “we don’t think we’re at the point where we can issue an air worthiness directive.”
+
+“We don’t have data to indicate an unsafe condition exists,” she said.
+
+A Delta Air Lines spokeswoman, Betsey Talton, said Delta had replaced the tubes on some models and was replacing them on its A330s, the model in the accident. 

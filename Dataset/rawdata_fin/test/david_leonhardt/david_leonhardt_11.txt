@@ -1,0 +1,51 @@
+ Sixteen years ago, two economists published a research paper with a delightfully simple title: “Looting.”
+
+The economists were George Akerlof, who would later win a Nobel Prize, and Paul Romer, the renowned expert on economic growth. In the paper, they argued that several financial crises in the 1980s, like the Texas real estate bust, had been the result of private investors taking advantage of the government. The investors had borrowed huge amounts of money, made big profits when times were good and then left the government holding the bag for their eventual (and predictable) losses.
+
+In a word, the investors looted. Someone trying to make an honest profit, Professors Akerlof and Romer said, would have operated in a completely different manner. The investors displayed a “total disregard for even the most basic principles of lending,” failing to verify standard information about their borrowers or, in some cases, even to ask for that information.
+
+The investors “acted as if future losses were somebody else’s problem,” the economists wrote. “They were right.”
+
+On Tuesday morning in Washington, Ben Bernanke, the Federal Reserve chairman, gave a speech that read like a sad coda to the “Looting” paper. Because the government is unwilling to let big, interconnected financial firms fail — and because people at those firms knew it — they engaged in what Mr. Bernanke called “excessive risk-taking.” To prevent such problems in the future, he called for tougher regulation.
+
+Now, it would have been nice if the Fed had shown some of this regulatory zeal before the worst financial crisis since the Great Depression. But that day has passed. So people are rightly starting to think about building a new, less vulnerable financial system.
+
+And “Looting” provides a really useful framework. The paper’s message is that the promise of government bailouts isn’t merely one aspect of the problem. It is the core problem.
+
+Promised bailouts mean that anyone lending money to Wall Street — ranging from small-time savers like you and me to the Chinese government — doesn’t have to worry about losing that money. The United States Treasury (which, in the end, is also you and me) will cover the losses. In fact, it has to cover the losses, to prevent a cascade of worldwide losses and panic that would make today’s crisis look tame.
+
+But the knowledge among lenders that their money will ultimately be returned, no matter what, clearly brings a terrible downside. It keeps the lenders from asking tough questions about how their money is being used. Looters — savings and loans and Texas developers in the 1980s; the American International Group, Citigroup, Fannie Mae and the rest in this decade — can then act as if their future losses are indeed somebody else’s problem.
+
+Do you remember the mea culpa that Alan Greenspan, Mr. Bernanke’s predecessor, delivered on Capitol Hill last fall? He said that he was “in a state of shocked disbelief” that “the self-interest” of Wall Street bankers hadn’t prevented this mess.
+
+He shouldn’t have been. The looting theory explains why his laissez-faire theory didn’t hold up. The bankers were acting in their self-interest, after all.
+
+The term that’s used to describe this general problem, of course, is moral hazard. When people are protected from the consequences of risky behavior, they behave in a pretty risky fashion. Bankers can make long-shot investments, knowing that they will keep the profits if they succeed, while the taxpayers will cover the losses.
+
+This form of moral hazard — when profits are privatized and losses are socialized — certainly played a role in creating the current mess. But when I spoke with Mr. Romer on Tuesday, he was careful to make a distinction between classic moral hazard and looting. It’s an important distinction.
+
+With moral hazard, bankers are making real wagers. If those wagers pay off, the government has no role in the transaction. With looting, the government’s involvement is crucial to the whole enterprise.
+
+Think about the so-called liars’ loans from recent years: like those Texas real estate loans from the 1980s, they never had a chance of paying off. Sure, they would deliver big profits for a while, so long as the bubble kept inflating. But when they inevitably imploded, the losses would overwhelm the gains. As Gretchen Morgenson has reported, Merrill Lynch’s losses from the last two years wiped out its profits from the previous decade.
+
+What happened? Banks borrowed money from lenders around the world. The bankers then kept a big chunk of that money for themselves, calling it “management fees” or “performance bonuses.” Once the investments were exposed as hopeless, the lenders — ordinary savers, foreign countries, other banks, you name it — were repaid with government bailouts.
+
+In effect, the bankers had siphoned off this bailout money in advance, years before the government had spent it.
+
+I understand this chain of events sounds a bit like a conspiracy. And in some cases, it surely was. Some A.I.G. employees, to take one example, had to have understood what their credit derivative division in London was doing. But more innocent optimism probably played a role, too. The human mind has a tremendous ability to rationalize, and the possibility of making millions of dollars invites some hard-core rationalization.
+
+Either way, the bottom line is the same: given an incentive to loot, Wall Street did so. “If you think of the financial system as a whole,” Mr. Romer said, “it actually has an incentive to trigger the rare occasions in which tens or hundreds of billions of dollars come flowing out of the Treasury.”
+
+Unfortunately, we can’t very well stop the flow of that money now. The bankers have already walked away with their profits (though many more of them deserve a subpoena to a Congressional hearing room). Allowing A.I.G. to collapse, out of spite, could cause a financial shock bigger than the one that followed the collapse of Lehman Brothers. Modern economies can’t function without credit, which means the financial system needs to be bailed out.
+
+But the future also requires the kind of overhaul that Mr. Bernanke has begun to sketch out. Firms will have to be monitored much more seriously than they were during the Greenspan era. They can’t be allowed to shop around for the regulatory agency that least understands what they’re doing. The biggest Wall Street paydays should be held in escrow until it’s clear they weren’t based on fictional profits.
+
+Above all, as Mr. Romer says, the federal government needs the power and the will to take over a firm as soon as its potential losses exceed its assets. Anything short of that is an invitation to loot.
+
+Mr. Bernanke actually took a step in this direction on Tuesday. He said the government “needs improved tools to allow the orderly resolution of a systemically important nonbank financial firm.” In layman’s terms, he was asking for a clearer legal path to nationalization.
+
+At a time like this, when trust in financial markets is so scant, it may be hard to imagine that looting will ever be a problem again. But it will be. If we don’t get rid of the incentive to loot, the only question is what form the next round of looting will take.
+
+Mr. Akerlof and Mr. Romer finished writing their paper in the early 1990s, when the economy was still suffering a hangover from the excesses of the 1980s. But Mr. Akerlof told Mr. Romer — a skeptical Mr. Romer, as he acknowledged with a laugh on Tuesday — that the next candidate for looting already seemed to be taking shape.
+
+It was an obscure little market called credit derivatives.

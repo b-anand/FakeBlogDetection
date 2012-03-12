@@ -1,0 +1,33 @@
+ A transcript of the error messages sent by Air France Flight 447 makes clear how many details the investigators have about the last minutes of its flight — and how little it tells them.
+
+A routine message about a malfunction in one of the plane’s lavatories is followed by a worrisome one that says that the speed sensor has a problem, but the cascade that follows is hard to parse.
+
+The plane, an Airbus A330, crashed June 1 on a flight from Rio de Janeiro to Paris, with 228 passengers and crew members. Searchers have recovered 44 bodies, including three on Friday. The plane was approaching a line of huge thunderstorms, but these were not unusual for the location and season, experts said.
+
+The transcript was posted on www.eurocockpit.com, and its authenticity was confirmed by industry officials. The error messages were received by an Air France maintenance base.
+
+The messages begin with a routine one, a problem in one of the lavatories. But an hour and 47 minutes later, another message indicates that the autopilot has switched itself off, an event that can be caused by a variety of problems.
+
+Soon after, the plane reports it has lost a computer protection that overrides any commands from the cockpit that would threaten the flight’s stability. The Airbus has a computer that accepts commands to change various settings and transmits them to the rudder, flaps, ailerons and other parts, but only if such commands do not threaten stability. For example, the computer would not let the pilot pitch the nose so high that airflow over the wings would be disrupted and lift would be lost.
+
+But the computer switched to a mode in which the protections either disappeared or could be overridden. Experts said that could happen if turbulence was so severe that the plane was thrown into an unusual attitude, but it might also be caused by the breakdown in the speed-sensing system.
+
+The messages also indicate that warning flags appeared on the displays of the captain and the first officer indicating a problem with the speed sensing.
+
+Jets sense their speed with a system that includes a part called a Pitot tube, an open-ended, forward-facing tube. Pressure in the tube varies with speed and is compared with the pressure in an opening facing the side of the plane.
+
+The plane that crashed had a model of Pitot tube that Airbus had recommended be replaced because it had a tendency to collect moisture, giving inaccurate readings. Air France was in the process of replacing the tubes on its A330s, but it had not gotten to that one.
+
+The problem was not perceived as urgent — and, in fact, it has not yet been proven so. Regulators in Europe and the United States have not made the replacement mandatory.
+
+Another message indicates a problem with the rudder travel limiter, a system that prevents the pilot from turning the rudder too hard when the plane is flying fast.
+
+The functioning of the rudder travel limiter was an issue in a previous Airbus crash, an A300 in New York in November 2001, but in this case the message might simply indicate that the computers, confused about the speed at which the plane was flying, decided to lock the rudder into the narrow range of motion allowed at high speed.
+
+A later message indicates a disagreement among navigation devices that receive information from the speed-sensing system. And another shows problems with one of the three primary computers that control the flight, and one of the two secondary computers, possibly for the same reason.
+
+Then a flight management computer, which keeps track of the required course and altitude, shows a fault.
+
+The last transmission shows that air pressure in the cabin was dropping rapidly. Cabin pressure, which is ordinarily maintained at a level equivalent to 10,000 feet above sea level, was changing at a rate equivalent to more than 1,800 feet per minute. That advisory may mean the plane has depressurized or broken up in the air.
+
+Aviation experts caution that the error transcript has two main weaknesses: the messages are sent in batches, and within a batch, their order is not meaningful. And some were probably caused by the cockpit crew trying to reset components that were acting up, like a person trying to reboot a computer, rather than by new failures.

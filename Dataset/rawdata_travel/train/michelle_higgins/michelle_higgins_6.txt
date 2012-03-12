@@ -1,0 +1,51 @@
+BETTER pack some cash on your next trip abroad. Americans are finding that their credit and bank cards aren’t as convenient as they once were while traveling overseas.
+
+The problem: American cards lack a special chip, now commonly used in many foreign countries, causing the cards to be rejected by some merchants and kiosks.
+
+That’s what Nancy Elkind, a lawyer from Denver, discovered in Paris when she wanted to use the popular Vélib’ bicycle rental system on a weeklong vacation with her husband last spring. They tried to swipe various cards at the rental kiosk, which doesn’t take cash, and all the cards were rejected.
+
+Then, thinking the problem might be with the kiosk and not their cards, they tried other Vélib’ locations around the city. But each time, their cards were not accepted.
+
+“We gave up, and kept walking around Paris, commenting occasionally on how much fun it would be to do some exploring by bike,” Ms. Elkind said.
+
+The couple’s cards, which rely on magnetic-stripe technology for transactions, lacked an embedded microprocessor chip, which stores and processes data and is now commonly used in Europe. Such chip-based cards — commonly referred to as chip-and-PIN cards because users punch in a personal identification number instead of signing for the purchase — offer an extra layer of protection against the theft of cardholder data and counterfeiting, and they are designed to replace magnetic stripe technology and signature payments.
+
+The chip-and-PIN technology usually isn’t much of an issue when making purchases at a store, or paying for a meal in a restaurant, as most of those merchants still have credit card terminals that can read the magnetic stripes. Likewise, A.T.M.’s typically recognize and accept many cards whether they have a chip or a magnetic stripe.
+
+But American cardholders have had their cards rejected by automated ticket kiosks at train stations, gas pumps, parking garages and other places where there are no cashiers.
+
+The alternatives aren’t ideal. Carrying around a wad of cash is a throwback, not to mention a security concern, for many travelers trained over the years to use plastic for purchases abroad.
+
+And as more countries around the world move to chip-and-PIN cards, it’s inevitable that Americans will encounter more difficulties paying for things abroad.
+
+Twenty-two countries, including much of Europe, Mexico, Brazil and Japan, have adopted the technology, according to the Smart Card Alliance, a nonprofit association that promotes chip cards. About 50 other countries are in various stages of migrating to the technology in the next two years, including China, India and most of Latin America, according to the association.
+
+In the last year, Canada began rolling out chip-and-PIN cards and plans to stop accepting magnetic stripe debit cards at A.T.M.’s after 2012 and at point-of-sale terminals after 2015.
+
+These governments like the cards because they reduce fraud. With an embedded microcontroller, large amounts of data can be stored on the card itself rather than in a central database, and counterfeiting such a card is difficult.
+
+But the United States banking industry has no immediate plans to adopt the technology. Part of the reason, experts say, is that fraud issues haven’t been as prevalent here as in other countries.
+
+The expense of converting the country to chip-and-PIN technology is also a deterrent. Javelin Strategy and Research, a consulting company for the financial services industry, has estimated the cost for the United States’ to migrate to the technology at $5.5 billion, mainly for new payment terminals — an expense that neither retailers nor banks want to shoulder.
+
+Doug Johnson, vice president for risk management policy at the American Bankers Association, said that American banks were concerned about security but that there were no plans to move to chip-and-PIN cards. “There are a lot of hurdles,” he said, “both from a cost standpoint as well as a network standpoint, we need to broach.”
+
+ It should be noted that chip-and-PIN cards are different from the radio frequency chip that some American credit cards now have, which allows customers to wave their card at a check-out scanner, instead of physically swiping it. Visa’s payWave cards and Expresspay cards from American Express are two examples.
+
+But regardless of the technology used, merchants have a certain amount of control over what kinds of cards they accept. Vélib’, for example, accepts American Express cards whether they have chip-and-PIN technology or not. But it doesn’t accept Visa or MasterCards unless they have the chip-and-PIN technology.
+
+CREDIT card issuers acknowledge the problems but offer few solutions at the moment. Randa N. Ghnaim, a spokeswoman for Visa, said the company was working with banks and merchants across Europe to ensure that they accept magnetic stripe cards in addition to chip-and-PINs.
+
+“We have heard of limited instances where merchants have refused to accept Visa magnetic stripe cards, but by and large, the majority of Visa cards are seamlessly accepted internationally,” she said. “It’s usually a lack of understanding that could lead to any issues rather than any issue related to the type of card a consumer may carry.”
+
+And at least one company, Travelex, the global payment services company, says it is working on a chip-and-PIN card for Americans that could be loaded with up to 6,000 euros or £4,500 — about $9,000 or $7,400 at recent exchange rates. But that solution is still at least a year away.
+
+“It’s definitely something we’ve been hearing more and more of,” said Tracy Hammock, a senior vice president at Travelex.
+
+For now, though, there is little an American traveler can do besides insisting, if a cashier refuses your card, that the merchant swipe it anyway. Despite what the cashier thinks, the terminal may be able to read the magnetic strip and approve the purchase.
+
+But realistically, it’s not a huge problem, and there are ways to work around it. You can still buy things like train tickets and subway cards online ahead of time, carry traveler’s checks or simply pack a lot of cash.
+
+That’s what Hope Einstein, a retired financial analyst from Stamford, Conn., decided to do on a trip to Great Missenden, England, last month, after she encountered chip-and-PIN issues two years ago. Lucky she did. Ms. Einstein still wasn’t able to withdraw money from A.T.M.’s. But this time, she wisely exchanged some dollars for pounds before leaving the United States.
+
+Recalling her first visit, she said, “It’s humbling to be walking around London with five bucks in your pocket.”

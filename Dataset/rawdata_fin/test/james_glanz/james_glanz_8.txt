@@ -1,0 +1,25 @@
+At exactly 10 minutes 48 seconds after 4 p.m. on Thursday, the grid's heart fluttered.
+
+The vast but shadowy web of transmission lines, power generating plants and substations known as the grid is the biggest gizmo ever built, moving electricity over thousands of miles ? from nuclear power plants to bathroom wall plugs ? and is one of the most powerful symbols of the connectedness and convenience that pervade the culture.
+
+The grid is the invisible circulatory system of the things humanity relies on, more and more, to let it operate untethered, free of the older mechanical world of rotary phones and strangely shaped keys made of polished brass. Portable phones, electronic hotel locks and Palm Pilots have replaced those vestiges of a clunkier age, creating an illusion of wireless mobility. In the process, people are becoming ever more dependent on the systole and diastole of the grid.
+
+And the grid is always there, thrumming with electronic life.
+
+Except during blackouts. At 4:10:48, voltage sensors picked up a fleeting dip, lasting a mere two-tenths of a second, on the grid in New England, according to the Electric Power Research Institute. Whatever the glitch meant, technicians were unable to head off the problem, and the system shut down over eight states.
+
+Just as they did after major blackouts in the Northeast in 1959, 1961, 1965 and 1977, investigators are trying to figure out exactly what set off the avalanche of failure. In 1965, it was a faulty breaker on a single power cable just north of the Niagara Falls area. In 1977, it was a series of lightning strikes. But what all the failures had in common is that the grid ? complicated beyond full understanding, even by experts ? lives and occasionally dies by its own mysterious rules.
+
+That is why the Blackout of 2003 is likely to become more than an occasion to bemoan some of the outdated technology employed by profit-sensitive utility companies or the inconvenience of returning to a darkened home.
+
+The incomprehensible complexity of the grid comes with its own irreducible pathologies, experts say. The system brings power to every wall plug in the nation, but, increasingly as the scale of the grid grows, it can suddenly take away that power. And given the sensitivity of the grid to accidental power failures, the realization of what deliberate acts by terrorists could do is also raising new concerns.
+
+"There's the paradox," said Edward Tenner, author of "Why Things Bite Back: Technology and the Revenge of Unintended Consequences" and "Our Own Devices: The Past and Future of Body Technology."
+
+"The grid definitely makes life safer and more reliable," but when something does go wrong, "we've seen that the dominoes can start to fall over a wider and wider area. So it's conceivable that the next time this happens that it could extend even farther."
+
+That possibility is frightening on its own terms, given the universal reliance on electrical power. From video games to A.T.M.'s to desktop computers ? most of which didn't exist in earlier blackouts ? dead devices brought normal life to a stop across the afflicted region. But the sensitivity of the grid to power failures has much wider implications, since Americans ? and the citizens of the rest of the world ? seem to like technologies that give them an illusion of independence within a giant web.
+
+Cellphones operate on a similar principle of connectivity. So do municipal water systems. So does the Internet. The list is increasingly long. And that is why some experts believe that what is beginning to look like a worldwide push for wildly interconnected technologies will have more and more serious days of reckoning, for which last week's blackout ? like the grid itself ? is an arrow to the future humanity can expect.
+
+In effect, these experts say, technicians can put their fingers in the dike, but with more and more things to go wrong, no safeguard will ever be subtle or sophisticated enough. "Just by the sheer complexity, adding one thing to another, larger and larger disturbances are going to occur," said Phillip F. Schewe, a physicist and writer who is preparing a book on the 1965 blackout. "I know that sounds fatalistic," he conceded.

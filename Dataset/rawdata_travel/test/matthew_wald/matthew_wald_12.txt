@@ -1,0 +1,39 @@
+At least six men suspected or convicted of crimes that threaten national security retained their federal aviation licenses, despite antiterrorism laws written after the attacks of Sept. 11, 2001, that required license revocation. Among them was a Libyan sentenced to 27 years in prison by a Scottish court for the 1988 bombing of Pan Am 103 over Lockerbie.
+
+In response to questions from The New York Times, the Transportation Security Administration, which is supposed to root out such individuals, announced that the Federal Aviation Administration suspended the licenses on Thursday.
+
+The two agencies appeared to be unaware that the men were among the nearly one million people licensed as pilots, mechanics and flight dispatchers. They were identified by a tiny family-owned company in Mineola, N.Y., demonstrating software it developed to scrub lists of bank customers for terrorism links.
+
+The list also includes an Iranian-American convicted of trying to send jet fighter parts to Iran and a Lebanese citizen living near Detroit who was convicted of trying to provide military equipment to Hezbollah.
+
+David M. Schiffer, president of the database company, Safe Banking Systems, said his list of terrorists or terrorism suspects was drawn entirely from public records. The F.A.A. records are also mostly public, although because of data entry and programming flaws, some information is inaccessible and other data is garbled.
+
+In an interview, Mr. Schiffer paraphrased the sign now common on buses and trains in New York urging the public to be alert for terrorist activity: “We saw something, and we’re saying something.”
+
+Mining databases for clues about terrorism is a central element of counterterrorism, although one that is frequently criticized because of concerns about privacy and the potential for error. After the Sept. 11 attacks, the Pentagon considered the idea of mining commercial databases like credit card transactions and phone records to look for links to terrorists; an outcry among civil libertarians and members of Congress blocked that. But the links found by Safe Banking Systems are entirely from public information.
+
+Congress created the Transportation Security Administration and moved it, along with the F.A.A.’s intelligence operations, to the Homeland Security Department. But the move apparently did not eliminate glitches in interdepartmental communication, a problem that was highlighted by the success of terrorists on Sept. 11.
+
+The T.S.A. appears not to have taken notice of the terrorists even when two of them turned up on the Federal Bureau of Investigation’s Ten Most Wanted List.
+
+A spokeswoman for the Homeland Security Department, Amy Kudwa, said her department would “conduct a comprehensive review to see why the system failed to identify these people” and would see if the department should be looking at more federal lists. It does not appear that the department is looking at lists maintained by the Treasury and Commerce Departments to fight terrorism.
+
+The two on the most wanted list were the defendants in the Pan Am 103 case, listed by the F.B.I. in 1995 as Abdel Basset Ali Al-Megrahi and Lamen Khalifa Fhima. The former is in the public F.A.A. records as Abdelbaset Ali Elmegrahi. While the transliteration of the Arabic differs between the two agencies, both records list the same birth date.
+
+“This data’s dirty,” said Mark Schiffer, who works for the family company along with his father. “People have typos, misspellings, and the data gets truncated or entered in the wrong field.”
+
+The entries appear to have been made in the F.A.A. database with no recognition of these potentially confusing differences, he said.
+
+And the F.A.A. database also misrenders names of some Latin Americans, he said, taking a final name — the name of the mother’s family, the use of which is optional — and entering it in the field for what Americans colloquially refer to as the “last name.”
+
+But the matching is not difficult, using “fuzzy logic” developed in the banking industry, he said, and with clues like a post office box address in Tripoli used by both the bomber who was convicted, and a co-defendant who was acquitted by the Scottish court, listed on his F.A.A. license as Lamen Khalifa Fhima.
+
+The two men were considered to be Libyan intelligence agents, yet they remained licensed as flight dispatchers, an obscure but critical profession in the airline world. Dispatchers help draw up flight plans, calculate how many people and how much cargo and baggage the plane can carry, and so on.
+
+Another name on the list is Re Tabib, of Riverside, Calif., who pleaded guilty in 2006 after F.B.I. agents seized more than 13,000 aircraft parts destined for Iran. After his release, the F.A.A. reissued two licenses, including one allowing him to fly the biggest commercial jets.
+
+Also on the list is a Maryland man, Myron Tereshchuk, convicted of manufacturing ricin, a powerful poison favored by terrorists. Mr. Tereshchuk pleaded guilty to possession of a biological weapon and possession of explosives; he is due for release in January 2012. He was licensed as a student pilot and an aircraft mechanic.
+
+Also in prison is Fawzi Mustapha Assi, due for release in 2013.
+
+A Lebanese national, he pleaded guilty in November 2007 to attempting to deliver military equipment to a terrorist group, Hezbollah. He was licensed as a private pilot. 

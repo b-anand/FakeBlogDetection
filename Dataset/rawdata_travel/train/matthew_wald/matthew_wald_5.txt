@@ -1,0 +1,29 @@
+Air traffic control supervisors delayed nearly an hour in notifying Norad, the military air defense command, that a Northwest Airlines jetliner was not responding to radio calls, the head of the Federal Aviation Administration said Friday. The delay was a violation of detailed procedures put in place after the hijackings of four airplanes on Sept. 11, 2001.
+
+The delay appeared to make little difference to Norad, said the administrator, J. Randolph Babbitt, because while the Air Force did prepare fighter jets in the incident it never ordered them into the air.
+
+Decisions on how to handle planes that do not respond to air traffic control instructions are based on a variety of factors, Mr. Babbitt said. Among them are whether the plane is in a metropolitan area, whether it is flying erratically and whether it is sending signals that it has been hijacked. None of those was the case on Oct. 21, when Northwest Flight 188, from San Diego to Minneapolis, flew about 150 miles past the airport.
+
+The pilots said afterward that they had been distracted during the flight by trying to use a new piece of software on their laptop computers for submitting work schedule requests. They were out of radio contact for 77 minutes, officials said.
+
+Mr. Babbitt said his agency’s procedures called for pointing out the plane to Norad and other agencies after 10 minutes of no communication, but in this case 69 minutes had lapsed. More than once, he said, as the plane flew into areas covered by different air traffic controllers, the controllers had shift changes but failed to point out to the relief controller that the plane was not in radio communication.
+
+“The timeline got reset several times for no particularly good reason,” Mr. Babbitt said.
+
+Mr. Babbitt and Henry P. Krakowski, the chief operating officer for the aviation administration, both former airline pilots, said that by itself losing radio contact with an airliner was not a major event; it typically happens several times a day.
+
+Pilots miss or mishear a radio call telling them to change frequencies as they enter a new sector, and thus lose radio communication for a few minutes, they said. Usually, they re-establish contact by checking in with the previous controller on the old frequency, but sometimes they have flown so far that they are out of radio range of the previous controller, the two men said.
+
+In the Northwest case, controllers called the airline to ask its flight dispatchers, airline workers who stay in contact with flights, to send text messages to the cockpit of Flight 188. Because Northwest is in the midst of integrating its operations with its new owner, Delta Air Lines, though, the phone number programmed in to the controllers’ auto-dial system had the wrong number, among other complications. And the Northwest crew did not respond to the text messages either.
+
+Controllers also asked other Northwest planes flying in the Minneapolis area to radio Flight 188 using the last frequency that the errant flight had used, when it was in touch with controllers in Denver, but that did not work either.
+
+Aviation officials have not yet laid out a definitive timeline for the flight, showing what calls the Northwest crew would have received if the plane had stayed tuned to the Denver frequency but had flown out of range of radios there.
+
+The F.A.A. revoked the pilots’ licenses, but they are appealing the action.
+
+The incident did not result in any damage or injury. But in a period of worry over distracted driving, it has attracted widespread public attention. Some lawmakers have proposed legal bans on laptops in cockpits, but Mr. Babbitt said Friday that that some airlines required their use, having pilots consult navigation charts on the screen instead of on paper.
+
+“It’s not so much what the device is, as that it’s a distractive device,” he said, adding that the distraction could as easily be a magazine or an iPod.
+
+There is already a rule requiring pilots to pay attention, he said, “We don’t need a new rule — we need more adherence to the rule.” 

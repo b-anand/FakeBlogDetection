@@ -1,0 +1,83 @@
+At any given moment, the airline industry’s powerful networks of computers are setting fares, tracking reservations and calculating how much fuel each plane needs to reach its destination.
+
+The American Airlines operations center in Fort Worth, where dispatchers direct flights at one of the nation’s busiest airports.
+
+The Diversion Tracker computer program helps American Airlines do a better job of coordinating arrivals and departures.
+
+So when a storm shut down Dallas-Fort Worth International Airport last Dec. 29, forcing American Airlines to divert 130 planes to other airports in the region, what high-tech system came into play at the world’s largest airline?
+
+“A legal pad,” said Don Dillman, managing director of American’s operations center here, where dispatchers direct flights around the world.
+
+Lacking any automated system for keeping track of all those diverted planes, Mr. Dillman and his colleagues furiously scribbled down details of where they had gone, how long they had sat there, and whether pilots had enough time left on their daily work limits to keep flying when the weather cleared.
+
+Ultimately, 44 of the planes sat on tarmacs for more than four hours.
+
+That episode and others — including JetBlue Airways’ stranding of 21 planes for more than four hours in New York in February — exposed industry weaknesses and set off consumer protests and calls for tougher airline regulations.
+
+It also sent many airlines into a computer-programming frenzy to reduce embarrassing service lapses. And now, after upgrading their software, airlines claim they can make good on promises not to strand passengers.
+
+Those vows will be tested as the holiday travel season begins and winter storms descend on airports across the United States.
+
+The technology improvements at American are, in one sense, encouraging. Pen and paper have been replaced by computer programs that display flight information in ways that are supposed to help prevent long waits on tarmacs and other service disruptions that most infuriate passengers. Top managers also now automatically receive text messages when things begin to go awry.
+
+Similar improvements have been made at JetBlue and at United Airlines. Other big carriers either have similar software or are in the process of acquiring it, they said.
+
+But, in another sense, the improvements are troubling because they reveal the industry’s relatively primitive approach to dealing with service disruptions.
+
+“What took so long?” said Mark Mogel, a retired software engineer who was stranded for five hours on an American flight in 2001, and then recently joined with others who had been stranded to lobby Congress for a limit on tarmac waits.
+
+The kinds of programs American and others are installing are neither terribly expensive nor “a great leap” in technology, and thus could have been in place years earlier, Mr. Mogel said.
+
+Not stranding passengers “is just a matter of will,” he added.
+
+In 1999, Airlines also promised not to strand passengers on tarmacs after a Northwest Airlines flight sat for hours in Detroit that January, but then the industry backslid.
+
+Monte E. Ford, American’s chief information officer, acknowledged that programs to help the airline recover quickly from storms and other disruptions were developed too slowly.
+
+“Why didn’t it happen before?” Mr. Ford said. “There wasn’t as much a sense of urgency. There wasn’t as much concern about delays.”
+
+American and other airlines built state-of-the-art computer systems before 1990. But investments did not keep up after that, he said. By the time he arrived in 2001, “the back-end systems were antiquated, the network was small,” Mr. Ford said.
+
+And as American was preparing to make big investments in computers, the terrorist attacks of Sept. 11, 2001, occurred, and sent the airline industry into a deep decline. Spending on technology was reduced. “That changed our investment profile from innovation to survival,” Mr. Ford said.
+
+So when a storm descended over the Dallas-Fort Worth airport last Dec. 29, dispatchers at American’s operations center did what they had been doing for years: they ordered planes to circle in hopes the storm would pass, and then sent them on to other airports when it didn’t.
+
+But with no single computer program keeping track of the diversions, and dispatchers too busy to compare notes, smaller airports were soon overwhelmed by flights.
+
+“We had 16 or 18,” said Bonnie Sutton, American’s general manager in Little Rock, Ark., where the airline has just two gates and typically handles only smaller regional jets.
+
+The storm camped over Dallas-Fort Worth Airport. Austin took 11 diverted American flights. Workers there chose to keep using their four gates for on-schedule flights headed to airports that were not closed down.
+
+Tim Niznik developed a computer program that warns dispatchers of too many diverted flights.
+
+“We had an attitude that was pretty much a brick wall,” said Mr. Dillman, the operations chief. “You don’t want the diverted flights to pull your normal flights down.”
+
+So the 11 planes sat in Austin, away from the terminal, four of them for more than six hours — one for 9 hours and 16 minutes.
+
+Trying to keep his legal-pad list up to date as Dec. 29 wore on, “the list just keeps getting longer and longer,” Mr. Dillman said. “The way you find out something is you pick up the phone and someone starts yelling at you: ‘What the heck are you doing letting five planes divert to Abilene — and they all arrive within 20 minutes?’”
+
+In the wake of Dec. 29, American promised not to leave passengers on grounded planes for more than four hours and began searching for ways to keep its word.
+
+At an internal post-mortem with top executives after the episode, one of Mr. Ford’s technology lieutenants mentioned software under development at American that could track diversions and display them on a single screen.
+
+When could he have it? Mr. Ford asked.
+
+The program, in the works for two years, was rushed into the operations center in two weeks. The work of Tim Niznik, a senior manager who has a Ph.D. in operations research, it is called Diversion Tracker and uses color codes to warn dispatchers that an airport is receiving too many diverted flights. Little Rock’s limit now, for instance, is six; Austin’s is eight.
+
+Other color codes warn when planes have sat too long on the ground. Crew time limits, whether the lavatories have been serviced on the ground, whether the plane has been to a gate — they are all automatically updated.
+
+A companion program, called taxi monitor, shows all the planes that have pulled away from the gate but have not yet taken off, listing the time they have sat.
+
+American had occasion to use the new software almost immediately. Last Feb. 24, 101 flights were diverted as severe wind gusts closed Dallas-Fort Worth for more than five hours.
+
+This time, the diverted flights were divvied up more evenly among surrounding airports. None took more than nine planes. Only one plane sat for more than four hours, according to the Transportation Department’s inspector general.
+
+Through the summer, Mr. Niznik worked with dispatchers to train them and add new features to the diversion software.
+
+On Sept. 10, a storm moved over Dallas-Fort Worth early in the morning. By 7:30, four flights had been diverted; by 8:15, 15 flights had been sent to five surrounding airports; by 9:15, 56 flights had diverted and the software was showing that five airports had all reached their limit.
+
+There were long waits, to be sure. By noon, planes at five airports had been on the ground for more than three hours. But passengers had been taken to the gate and let off, Mr. Niznik said, looking at the program’s account of the day.
+
+What if all this stuff — the new software and training, the new procedures and corporate commitment to getting passengers off stranded planes — had been around last Dec. 29? On a scale of 1 to 100, how much of that day’s misery might American’s passengers have been spared?
+
+Charlie Mead, a manager in dispatch, pondered that question. American could reduce the suffering “maybe 20 to 25” percent, he said. “It’s not like we want to trap people in these airplanes.”

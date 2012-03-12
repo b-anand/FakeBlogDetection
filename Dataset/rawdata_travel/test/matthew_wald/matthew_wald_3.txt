@@ -1,0 +1,37 @@
+ Burning fossil fuels costs the United States about $120 billion a year in health costs, mostly because of thousands of premature deaths from air pollution, the National Academy of Sciences reported in a study issued Monday.
+
+The damages are caused almost equally by coal and oil, according to the study, which was ordered by Congress. The study set out to measure the costs not incorporated into the price of a kilowatt-hour or a gallon of gasoline or diesel fuel.
+
+The estimates by the academy do not include damages from global warming, which has been linked to the gases produced by burning fossil fuels. The authors said the extent of such damage, and the timing, were too uncertain to estimate.
+
+Nor did the study measure damage from burning oil for trains, ships and planes. And it did not include the environmental damage from coal mining or the pollution of rivers with chemicals that were filtered from coal plant smokestacks to keep the air clean.
+
+“The largest portion of this is excess mortality — increased human deaths as a result of criteria air pollutants emitted by power plants and vehicles,” said Jared L. Cohon, president of Carnegie Mellon University in Pittsburgh, who led the study committee.
+
+Nearly 20,000 people die prematurely each year from such causes, according to the study’s authors, who valued each life at $6 million based on the dollar in 2000. Those pollutants include small soot particles, which cause lung damage; nitrogen oxides, which contribute to smog; and sulfur dioxide, which causes acid rain.
+
+The study lends support to arguments that society should pay extra for energy from sources like the wind and the sun, because their indirect costs are extremely small. But it also found that renewable motor fuel, in the form of ethanol from corn, was slightly worse than gasoline in its environmental impact.
+
+Coal burning was the biggest single source of such external costs . The damages averaged 3.2 cents per kilowatt-hour, compared with 0.16 cents for gas. But the variation among coal plants was enormous.
+
+The worst plants, generally the oldest and burning coal with the highest sulfur content, were 3.6 times worse than the average, with a cost of nearly 12 cents per kilowatt-hour (which is more than the average retail price of that amount of electricity).
+
+The best plants carried a cost of less than a quarter of a penny. Natural gas plants also showed a large variation, but both the best and the worst costs were far smaller than for coal.
+
+Such variation suggests that existing technology could be applied to make the electric system a lot cleaner, experts said. One of the study’s authors, Maureen L. Cropper, an economist at the University of Maryland, said the findings should be used not to raise the price of electricity based on an average of indirect costs but to measure the cost of cleanup on a plant-by-plant basis.
+
+The study did not measure damage from pollution-control devices. “If you’re taking the output of a scrubber and dumping it in the Monongahela River, that’s not in our study, Professor Cropper said.
+
+The study found that operating nuclear plants did not impose significant environmental costs, although uranium mining and processing did. But 95 percent of uranium mining takes place in other countries, the study said. Canada and Australia together account for 44 percent of world production.
+
+The committee did not put a dollar value on the risk of a nuclear accident that would produce environmental damage. It also noted the uncertainty of the cost of long-term disposal of high-level wastes.
+
+The committee said environmental damage from gasoline and diesel fuel cost 1.2 cents to 1.7 cents per mile. A co-author of the study, Daniel S. Greenbaum, president of the Health Effects Institute, said that would come to 23 cents to 38 cents per gallon. Still, Mr. Greenbaum said, “we were hesitant to make that a central part of our findings,” because pollution also results from manufacturing cars.
+
+The study did not calculate the military cost of protecting fuel imports.
+
+As for wind energy, the study said it killed birds but not enough to seriously affect populations. A possible exception was raptors, birds of prey that ordinarily eat species whose numbers are being reduced by spinning turbine blades.
+
+The study was not kind to ethanol. A mixture of 85 percent ethanol and 15 percent unleaded gasoline, or E85, showed slightly higher damages to environment and health than ordinary gasoline, because of the energy required to raise the corn and make ethanol from it.
+
+Electric vehicles and vehicles using synthetic diesel fuel, also ranked poorly. The electric vehicles might do better if emissions of heat-trapping gases had been factored in, because they have lower carbon dioxide emissions per mile than gasoline-powered cars. But the cars running on artificial diesel would look slightly worse in that analysis, the study said. 

@@ -1,0 +1,39 @@
+Airports already bulldoze bird nests and send dogs to chase off flocks, but engineers are trying new technologies to scare away birds in flight, including using landing lights as strobe lights, the vice chairman of the National Transportation Safety Board said Monday.
+
+The official, Robert L. Sumwalt, spoke on the eve of Tuesday’s safety board hearing on the crash of US Airways Flight 1549, which took Canada geese into both engines shortly after takeoff from La Guardia Airport on Jan. 15 and glided into the Hudson. All 155 people on board survived.
+
+Mr. Sumwalt said turning the landing lights into strobe lights could make a plane, closing in on the birds at more than 100 miles an hour, more conspicuous to them. But, he said, that is only one solution that should be investigated.
+
+“Maybe there’s some other technology out there, a radar that some innovative company can come up with to zap the birds out of the way,” Mr. Sumwalt said in an interview. Some pilots believe that birds try to avoid emissions from the planes’ on-board weather radar, he said, and “we need to find out, is that an urban legend or is there some truth to that?”
+
+“We need to be innovative when we’re looking for solutions here,” he said.
+
+The happy outcome in Flight 1549’s splashdown into the frigid Hudson involved not only the skill of the crew, but also a lot of luck, experts say: In the last 20 years, researchers counted 229 people killed and 210 aircraft destroyed as a result of bird strikes.
+
+In fact, the Federal Aviation Administration already has an extensive program for what it calls “wildlife hazard mitigation,” but it seems ill suited to the problem that faced the US Airways flight, which struck geese five miles from the runway — too far for the New York airports to take action — at an altitude of 2,900 feet — too high for radars being installed around the country to detect birds.
+
+Researchers from the Smithsonian Institution announced Monday that isotopic analysis of the goose remains found in Flight 1549’s two engines showed that habitat destruction would be impractical because the birds were migratory and not part of the population that has settled permanently in the New York area.
+
+They were probably in flight that morning because snow had covered the grass where they usually graze, said Peter P. Marra, a research wildlife biologist based at the National Zoo in Washington, and they were looking for open feeding grounds. Native populations can be displaced by a few miles to keep them away from runways, but biologists do not want to disrupt birds that migrate.
+
+Laura J. Brown, a spokeswoman for the Federal Aviation Administration, said that biologists follow the patterns of resident birds and try to dissuade them from living where they would be a problem. But, she added, “what kind of program can you have for migratory birds?”
+
+Disrupting habitats close to airports that are attractive to birds, like ponds, can be helpful for discouraging both resident and migratory birds, she said.
+
+The Smithsonian determined that the geese involved in Flight 1549 were migratory by looking at the ratio between two kinds of hydrogen in their feathers. That ratio reflects the one found in grasses that the birds ate while they grew their feathers after the annual molt. A type of hydrogen called deuterium, which was low in this case, is more prevalent in grasses in latitudes like New York’s than in northern Canada.
+
+Another area to be covered in the three days of safety board hearings is how engine standards are set. There is a rule for how big a bird an engine must be able to take in and spit out while continuing to produce thrust, and another for the maximum size it must be able to take in without breaking up and throwing off dangerous shrapnel. The hearings will look into whether engines can be built to withstand birds as big as the Canada goose. Mr. Sumwalt said the answer was probably not.
+
+Ms. Brown said engine standards had to be balanced with other concerns like fuel economy and thrust level.
+
+While the US Airways accident was unusual for its location and altitude, air safety investigators still hope to glean whatever lessons are available.
+
+In a technique called cockpit resource management, crews are trained to work together in an emergency, and human performance experts will evaluate how well that worked on Flight 1549, Mr. Sumwalt said.
+
+The experts will also look at other procedures. According to Mr. Sumwalt, the US Airways crew began working on the checklist for restarting the engines, but did not finish, for lack of time, and then started on a checklist for ditching, but did not finish that either.
+
+A few years ago, Airbus revised its engine-out checklist. The procedure includes the instruction “LAND ASAP.” If the engine restart is unsuccessful, the procedure moves directly into the ditching instructions.
+
+In hindsight, some experts said that the captain, Chesley B. Sullenberger III, might have elected to return to La Guardia in the instant available to make a decision. But Mr. Sumwalt said that without the engines running, he might have lacked the hydraulic power to work the parts essential to landing, like wing flaps and landing gear brakes. He might have brought the plane, an Airbus A320, down on the runway and impaled it on landing lights, with multiple casualties, said Mr. Sumwalt, who flew that model himself as a US Airways pilot before being named to the board.
+
+Mr. Sullenberger was scheduled to testify Tuesday.

@@ -1,0 +1,37 @@
+Flights over much of the eastern United States were delayed Thursday by a predawn failure in a fairly new communications system, which led to the shutdown of a computer that accepts flight plans from the airlines and feeds them to air traffic controllers.
+
+It was the fourth major disruption attributed to the communications system, which the Federal Aviation Administration began putting into service earlier in this decade as a way to cut costs and assure reliability. But the F.A.A. said late Thursday that it had not yet determined the cause of the failure, that the failure might not be related to the relative newness of the system, and that it did not see a pattern.
+
+But when it failed, at about 5 a.m. Eastern time, the airlines had to send flight plans — which describe a plane’s route, including intermediate points and altitudes — by fax, and the controllers typed them into their computers, not quite hunt-and-peck but cumbersome enough that many planes were delayed for over an hour.
+
+But there was no risk to planes in flight, the F.A.A. said.
+
+By midmorning the system was working again, but the backlog caused many flights to be held on the ground at airports around the country.
+
+The West was mostly spared, though, because the problem was fixed before much of the flight day got started there.
+
+The crucial computer that was knocked out, the National Airspace Data Interchange Network, situated in Atlanta and with a backup in Salt Lake City, also failed in August 2008, with a similar result, but for a different reason.
+
+Flight plans typically consist of hundreds of alpha-numeric characters giving the flight number, type of equipment, takeoff location and various intermediate points, with altitudes.
+
+When the first failure happened — of a router, the F.A.A. said — it knocked out not only the computer that handles flight plans, but one that sorts through “notices to airmen,” or F.A.A. alerts about short-lived problems like runway closings, and delivers them to pilots.
+
+By early afternoon, the F.A.A.’s online status board was showing the problem limited to the Northeast.
+
+The computer that handles the flight plans was repaired by around 9 a.m., but by then a huge backlog had developed.
+
+The National Air Traffic Controllers Association, the controllers’ union, said in a statement that “airport efficiency is being cut by at least half in places like New York-J.F.K.”
+
+Airlines reported problems in other areas as well. Around the country, planeloads of passengers heard pilots blame the air traffic system as they sat on the tarmac. AirTran Airways, based in Orlando, Fla., quickly announced that passengers with tickets for Thursday could rebook without charge, as is commonly done in storms.
+
+The aviation agency’s data processing system has a variety of problems. While it was hailed as a marvel when it was introduced decades ago, much of it is written in obsolete computer language and the agency has been slow to provide updates. And with a requirement for up-to-the-minute, round-the-clock performance, parts of the system have crashed while technicians tried to install upgrades.
+
+Each failure causes frustration. At La Guardia Airport in New York, the arrivals monitor for Delta in the baggage claim area showed a 40-minute delay for almost every flight at midday.
+
+No one seemed very surprised.
+
+“It’s not bad,” said Raja Waheeb, a limo driver waiting for a client coming in from Atlanta. “I don’t know why they’re late, but with weather like this, it’s normal. It’s rainy.”
+
+In the departures area, Gilbert Valdez, a teacher at Tricoci University of Beauty Culture in Chicago, who flies in four or five times a year, showed up early for his 2 p.m. flight home because he had heard about the disruption.
+
+“It’s kind of nerve-racking because I don’t want to be stranded at La Guardia,” Mr. Valdez said. “I just want to get home.” 

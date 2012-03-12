@@ -1,0 +1,59 @@
+TECHNOLOGY and policy are coming together to promise electricity as abundant as sunshine and as freely available as the breeze — and about as fickle.
+
+The challenge for power management experts is how to deal with thousands of new generators, often in inconvenient places, that will not respond to electronic commands to produce more when needed. These are mostly windmills and fields of solar cells, which produce close to 20 percent of California’s electric needs.
+
+In a nondescript building with hardly any exterior signage, experts at the California Independent System Operator are moving beyond their traditional job of balancing California’s constantly changing electric demand against the output of 1,400 generators in the state and others scattered around the western half of the continent.
+
+Consider it a dress rehearsal for America. Gov. Arnold Schwarzenegger has ordered the electrical system to find 33 percent of its needs from alternative sources by 2020. Meanwhile, Congress is contemplating a national “renewable energy portfolio standard.”
+
+Managers here discuss new tools, like Doppler radar on remote hilltops to detect the speed of the wind hitting the windmill blades and to forecast what it will be in 15 or 30 minutes, so natural gas plants can be started in time to meet demand when the wind stops, or shut down before the gusts come through and overload the system.
+
+Managers also explore how they might forecast haze and dust, which change the output of solar cells. They worry about rogue clouds that will disrupt solar fields. They talk about batteries of an unprecedented scale that will go from fully charging to fully discharging in one second, to smooth out the herky-jerky output of mammoth new renewable developments.
+
+The idea is to convert a power chart that looks like an EKG into something smoother like, say, a ski slope. A two-megawatt version — a battery big enough to run two Super Wal-Marts — is being tested.
+
+A massive shift to renewable energy is “a huge societal issue in terms of the benefits, but also the challenges,” said Yakout Mansour, the president and chief executive of the California Independent System Operator. “The benefits are understood; the challenges are way understated.”
+
+The grid experts are often reticent about their concerns, because when they speak up, “we get perceived as we are not supportive of renewables,” Mr. Mansour said. Electric planners are hesitant to draw the ire of the politically powerful environmental movement, or the solar or wind lobbies, as Congress contemplates a national “renewable energy portfolio standard.”
+
+To hit the goal of 33 percent, there will be hours when California must run at about 50 percent renewable energy — mostly wind — to balance out the hours when the wind does not blow. That is hard, because the wind blows best at night, when demand is low, and already there are night hours when the system cannot use all the energy available, because there is so little demand.
+
+Planners talk about the challenges of trying to keep power production no higher than the level of demand, even with generators they cannot shut down. One idea is to run air-conditioning and heating units extra hard at night and make buildings warmer or cooler than needed, so demand will be less during the day.
+
+The public may expect that with a proliferation of solar panels and wind machines, companies will shut plants that run on coal and natural gas. But all of it will be needed if the system is to remain stable and ride through periods of low wind, said Mr. Mansour.
+
+While California is at the vanguard, the problems exist all over. “The transmission grid in its current state wasn’t designed for the new energy frontier,” said Ken Salazar, the secretary of the interior, in a conference call with reporters in October.
+
+One early sign of what may lie ahead came in Texas, which is the leader in wind generation. One night in February 2003, an expected cold front pushed demand up so sharply that electric clocks throughout the state began running about one quarter of 1 percent slower. Had the slowdown lasted an hour, Texas would have been nine seconds behind the rest of the world.
+
+Power-grid operators did not let it go nearly that long. Facing unexpectedly strong demand and weak generation, they unplugged some big industrial customers until the system was back in balance. But the cause of the problem was disputed.
+
+Some people called it a “wind event;” the American Wind Energy Association insisted it was a “reliability event” and pointed out that the shortfall in conventional generation was larger than the drop in wind generation. In the wind lobby’s view, the system worked as intended: industrial users who had volunteered to be unplugged on short notice in an emergency, in exchange for lower rates, earned their discount. 
+
+The intermittent nature of wind power and grid constraints already affect power generation. Turbine operators sometimes have to shut down their machines because there is no space for their electricity on the transmission lines. Thousands of megawatts of additional wind power are on the drawing board, but cannot be added until more lines are built.
+
+Experts say 15 percent to 30 percent of total energy generation from alternative sources is not impossible, but the system will have to be run differently to accommodate more intermittent sources.
+
+The problem is that the electric system runs on two different resources, energy and capacity. Energy can be thought of as accomplished work; pumping a thousand gallons of water from the basement to the roof, for example, is an energy problem. Capacity means having enough electricity whenever it is demanded. Stepping out of the shower and turning on a hair dryer without calling the electricity company to ask for permission is an example of the need for capacity.
+
+Wind adds complications. The wind industry added more than 1,600 megawatts of capacity in the third quarter this year, bringing its total to 31,000 megawatts, enough to power nine million homes. At times, those thousands of wind machines will be producing enough electricity for many more millions of households; at times, they will make hardly any.
+
+SO how do places with a large number of wind machines calculate their capacity value, the amount they can count on at a peak demand time? That depends on location, said Mark G. Lauby, manager of reliability assessments at the North American Electric Reliability Corporation, or Nerc, a nonprofit corporation designated by the government to develop and enforce rules for operating on the electric grid.
+
+“There’s a variety of ways people calculate that capacity range,” he said. “It goes from zero to 37 percent, based on historical performance.” If the wind machines were operating at 37 percent of maximum capacity in the most recent peak hour, they may be relied on for that much, he said, but the number is usually lower, because most utilities reach peak demand on summer afternoons, which are typically low-wind periods.
+
+In Colorado, where Xcel Energy is under orders from state regulators to increase the portion of electricity from renewable sources, the company sometimes produces more electricity at night from wind alone than its service territory is using. During the day, when demand is high, it is sometimes producing none. The solution in Colorado and elsewhere is gas turbines, which run on natural gas and are not terribly efficient, but can vary their output relatively quickly.
+
+Solar power has its own problems. While the angle of the sun in the sky can be easily predicted, the sun can go behind a cloud even faster than wind can die down. At a recent symposium on the electric grid, Steven Chu, the secretary of energy, presented a graph that showed how a solar power farm lost 81 percent of its output in five minutes.
+
+California utilities have contracted for solar power farms that will cover hundreds of acres with thousands of megawatts, but solar advocates say stray clouds are manageable. “It turns out that when the field gets large enough, the kind of single clouds that can cause the 80 percent drop in 90 seconds are no longer a problem,” said Ken Zweibel, director of the Solar Institute at George Washington University. “Why? Because they only turn off part of the field.”
+
+The variability problem in both sun and wind could be mitigated by a better grid; the existing system resembles a sheet cake in a flimsy box, which will hold together as long as it is supported from many points. The variability would average out if the solar cells and the wind turbines were in many different places, but they would have to be tied together more tightly, experts say.
+
+Such a system would look very different. The North American Electric Reliability Corporation reported in October, for example, that a requirement that 10 percent of electricity demand be met with renewables by 2018 would mean that one-quarter of all generators on the system be renewable, or mostly wind.
+
+Transmission would be another problem. For the last two decades, power-line construction has been trending lower, to about 4,000 miles now from about 8,000 miles a year in the early 1990s, largely because it is so difficult to get permission to build. To integrate the new renewables would require doubling the pace of construction, the group said.
+
+A potential solution is to reverse the pattern of making supply meet demand. Instead, demand could be tailored to meet supply, through “demand-side response,” in which utilities selectively unplug their customers under a prearranged deal where the customer gets lower rates for interruptible service.
+
+Kelly Ziegler, a Nerc spokeswoman, said, “we’ve always been a proponent of demand response as a dance partner for wind.”

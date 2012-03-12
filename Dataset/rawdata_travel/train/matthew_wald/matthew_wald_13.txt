@@ -1,0 +1,43 @@
+While most lawmakers accept that more renewable energy is needed on the nation’s grid, the debate over the giant climate-change and energy bill now before Congress is exposing a fundamental rift. For many players, the energy not only has to be clean and free of carbon-dioxide emissions, it also has to be generated nearby.
+
+The division has set off a fight between Eastern and Midwestern politicians and grid officials over parts of the bill dealing with transmission lines and solar and wind energy. Many officials, including President Obama, say that the grid is antiquated and that thousands of miles of new power lines are needed to allow construction of wind farms and solar fields in the most promising spots. Many of the best wind sites are in the Midwest, far from the electric load in populous East Coast cities.
+
+An influential coalition of East Coast governors and power companies fears that building wind and solar sites in the Midwest would cause their region to miss out on jobs and other economic benefits. The coalition is therefore trying to block a mandate for transcontinental lines.
+
+They want the wind farms built in rural New England and offshore from Massachusetts to Delaware, and for now it appears that they may get a chance to do that. They are campaigning to keep a provision out of the legislation that would mandate a huge super-high-voltage grid, with the cost spread among millions of electric customers.
+
+“While we support the development of wind resources for the United States wherever they exist,” the governors warned in a May 4 letter to House and Senate leaders, “this ratepayer-funded revenue guarantee for land-based wind and other generation resources in the Great Plains would have significant, negative consequences for our region.”
+
+Dan W. Reicher, an assistant energy secretary in the Clinton administration who now leads energy initiatives at Google, said the debate exposed a conundrum. “The areas with the most attractive renewable energy resources often don’t overlap with the places where the push for job creation is strongest,” Mr. Reicher said.
+
+For example, a wind machine in North Dakota would produce more energy than the same machine in some Eastern states — but energy projects tend to get built in places where they are most wanted.
+
+The East Coast advocates may have won a crucial first round. When the House passed its sweeping energy and climate-change bill on June 26, it included a provision that lets the federal government overrule state objections to new power lines — but only west of the Rockies. Western states would be unlikely to oppose the new power lines in any case: the region has long been accustomed to huge generation projects built at a great distance from load centers.
+
+But the bill would not give the federal government a mandate to overrule the Eastern states on transmission lines. The issue will be on the table again as the Senate takes up the bill in the next few weeks.
+
+A two-year effort by transmission authorities in the eastern half of the country to draw up plans for a strong grid collapsed after grid officials in New York and New England pulled out, saying that the plans were too centered on moving Midwestern energy eastward.
+
+In an interview, Ian A. Bowles, the Massachusetts secretary of energy and environmental affairs, said he questioned “whether or not we need national transmission legislation at all.”
+
+Mr. Bowles suggested that all Congress needed to do was impose a cap on carbon-dioxide emissions and mandate a national renewable energy quota. Then the market could determine whether resources should be in distant spots with long transmission lines or places closer to load centers, he said.
+
+The debate echoes others in past years about whether to build conventional power plants locally or build stronger connections to distant conventional plants.
+
+The governors’ concern, said James B. Robb, a senior vice president of Northeast Utilities, was not only the optimal cost and use of the electricity but also “any fringes that come along with it — the local tax base, local employment, all those kinds of things.”
+
+For years, some planners have talked about a grid powerful enough to allow for “postage-stamp rates,” transmission charges that are small and independent of distance, so that power will be produced wherever it is most economical, even if that is half a continent away from where it is needed. But for local economic reasons some people resisted that idea, even in the days before tapping wind on the plains and sun in the desert became a national goal.
+
+And a weak grid helps some electric companies. Local generators have often been able to charge more by being in the right place at the right time, with no competition because the long-distance lines are already fully loaded, experts say.
+
+“When you have a constrained transmission system and you seek to unconstrain it,” said Mary Ellen Paravalos, the vice president for transmission at National Grid, a New York and New England company, some local parties stand to lose. This is true “even if the wider societal benefit is net positive,” Ms. Paravalos said.
+
+Complicating the debate, many proposed power lines that could carry renewable energy to market could also end up carrying coal-fired power. An improved national grid would end the situation that prevails at many hours in the East today, when coal plants that can produce power cheaply sit idle while cleaner natural gas plants are running full tilt, able to sell their more expensive power because grid traffic is so bad that the coal power cannot reach the market.
+
+That configuration costs consumers money but also reduces emissions of the carbon-dioxide emissions that cause climate change. So contrary to expectations, one effect of a stronger grid, although ardently sought by supporters of renewable energy, could be to push costs down but nudge coal-fired emissions up.
+
+But the basic conflict remains distant energy versus local energy.
+
+“Some states dealing with this issue see it not only as an environmental and least-cost-supply question but also as a potential economic development tool,” said Branko Terzic, a former member of the Federal Energy Regulatory Commission, which regulates some power lines.
+
+Mr. Terzic added, “Those three goals are not always concurrent and could be in conflict.”

@@ -1,0 +1,41 @@
+ Investigators will ask pilots how much ice they saw when they flew around the Buffalo area on Thursday night, around the time a flight from Newark crashed and killed 50 people, but a member of the National Transportation Safety Board urged “caution about jumping to conclusions that it might be an icing incident.”
+
+A memorial service was held Monday at a church in neighboring Williamsville. More Photos »
+
+In fact, some of the information that might be present after an icing accident — like reports of severe icing from other pilots, or comments about severe icing from the cockpit voice recorder of the plane that crashed — have not surfaced so far in the investigation of last week’s crash of Continental Connection Flight 3407.
+
+The twin-engine turboprop plane, a Bombadier Dash 8 Q400, hit a house in Clarence Center, N.Y., killing all 49 people on board and one man inside the home.
+
+There were reports of moderate ice in the area, said the safety board member, Steven Chealander. But another Continental Airlines plane — also a Dash 8 Q400 — flew the same route, Newark to Buffalo, leaving 27 minutes after Flight 3407, and completed the trip without incident, he said.
+
+Crews worked on Monday to recover pieces of the airplane, and if not for the police tape and roses left nearby, the site could be mistaken for a construction zone. But the heavy equipment was silenced and shovels were put away briefly as some of the passengers’ families were brought by bus to see, for the first time, where their relatives died.
+
+“We stood down,” Mr. Chealander said, “and allowed them an opportunity to go in there and pay their respects. That’s all I’d like to say. That was a private time for them and I won’t describe it any other way.”
+
+Whenever a propeller-driven airplane crashes in winter, icing is an obvious suspect. Engineers, pilots, controllers and others have known for years that ice can very quickly cause havoc on an airplane by altering the flow of air over its finely crafted shape.
+
+Airplanes like the Dash 8 have pneumatic boots, made of a tire-like rubber, that inflate and deflate to break up the accumulating ice on the front edges. But in certain conditions, droplets hitting the plane can flow over the boots onto the top of the wing and freeze in ridges in an area that the boots do not protect. In October 1994, an ATR-72 crashed in Roselawn, Ind., because frozen ridges were created and formed a partial vacuum behind them.
+
+A difficulty of flying in weather conducive to ice is that the crew has to figure out whether there is ice on the tail — invisible from the cockpit — or on the wing. A pilot’s remedy for ice on the wing may exacerbate the problem caused by ice on the tail. The clues are subtle; for example, wing ice may make the plane buffet, or shake, but tail ice may make the controls alone shake.
+
+In a widely distributed NASA video for pilots, made in 1997, William J. Rieke, a research pilot at what was then the NASA Lewis Research Center in Cleveland, warns that if ice has caused the tail to go into aerodynamic stall, and it is misdiagnosed as a wing stall, “you and your passengers could be history.”
+
+“Remember, you have very little time to correctly diagnose the problem and take the proper corrective actions,” he says.
+
+Pitching the nose down, a quick way to gain speed and protect against wing ice, changes the angle at which wind goes over the tail, and may make the stall problem more likely to occur. On Thursday night, an automatic system on the plane, intended to counteract a wing stall, actuated to push the nose down.
+
+Then the airplane nose pitched up, then down, as the airplane rolled to one side. It was far too close to the ground already for the crew to regain control.
+
+One question is whether the crew intentionally pitched the nose up or whether it happened for some other reason.
+
+The plane was flying at roughly 160 miles per hour, said Mr. Chealander, but its stall speed, the minimum needed to stay in the air, was about 120 m.p.h.
+
+But for some reason, an automatic system intended to prevent aerodynamic stall kicked on, and kicked off the autopilot, which had been pointing the plane to the runway, about six miles away. This happened as the crew lowered the flaps, the metal panels at the back of the wings that help flight at low speeds.
+
+Knowledge of tail icing is not new; the Federal Aviation Administration convened a conference on that subject in 1991 at NASA Lewis, which is now the NASA John H. Glenn Research Center at Lewis Field.
+
+Tom Ratvasky, a flight research engineer at NASA Glenn, said that NASA and the F.A.A. had worked much harder in the last few years to teach pilots about icing risks.
+
+But progress in ice protection is sometimes slow. After the Roselawn crash, regulators realized that the conditions under which they test new aircraft designs — to be certified for flight into icing conditions — did not cover some atmospheric conditions: specifically, large cool droplets of water that freeze on contact with an airplane. The F.A.A. is studying how to enlarge the “flight envelope” of weather conditions that new designs must meet, but it has not finished that job in the nearly 15 years since the Roselawn accident.
+
+Airlines have pushed back against new regulations because they fear that there may be limits placed as to where they could fly, said John Goglia, an aircraft maintenance expert and former member of the safety board. And he said that over time, the problem will not get better on its own; newer wing designs are sometimes more vulnerable, because they have thinner wings that are more efficient at lifting, optimized for higher speeds. But it takes less ice to interfere with lift in those designs, he said.

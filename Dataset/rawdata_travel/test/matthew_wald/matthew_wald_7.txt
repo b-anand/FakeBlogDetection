@@ -1,0 +1,53 @@
+Many of the hundreds of workers at the Shearon Harris nuclear plant in New Hill, N.C., are busy with high-tech tasks like calibrating equipment, monitoring radiation fields or controlling the reactor. But around the clock, there are three on duty who might have come out of another century.
+
+Timothy J. Baldwin, 33, has been on fire watch at the Shearon Harris nuclear plant in New Hill, N.C., for four years.
+
+Researchers in Maryland testing the fire potential of different electric cables in nuclear plants.
+
+They sniff for smoke.
+
+Pacing miles each day, up and down stairs and through vast halls and narrow passages, they visit crucial locations at least once an hour to make sure fire has not broken out.
+
+“I’m in great shape, probably the best of my life,” said Timothy J. Baldwin, 33, who has been on fire watch at the plant for four years and says he covers 12 miles a day, including 60 flights of stairs, and wears out two or three pairs of sneakers each year.
+
+Yet Shearon Harris wants to eliminate jobs like Mr. Baldwin’s, and so does the Nuclear Regulatory Commission. Instead, the commission is urging nuclear plants to embrace a more systematic approach to assessing fire risk — one that relies on a computer program.
+
+Using the new method, Shearon Harris is assessing every nook and cranny of its plant, across hundreds of miles of electrical cables and scores of pumps and motor-driven valves.
+
+The commission is promoting the approach as a replacement for its own “cookbook” rules, which set strict procedures without allowing room for analysis, said John A. Grobe, the commission’s associate director of engineering and safety systems.
+
+Mr. Grobe said the goal was to make fire rules more “risk informed,” focusing on the precise locations and systems that matter most to the functioning of the nation’s 104 nuclear reactors.
+
+Across the country, plants now have a choice of adhering to the commission’s current fire-safety standards or using the new risk assessment approach. So far, the commission says, 51 of 104 plants have opted for the new method. Shearon Harris will complete the transition in November 2010, said J. Anthony Maness, the plant’s superintendent of major projects.
+
+Before March 1975, when a fire at the Tennessee Valley Authority’s Browns Ferry nuclear complex in Alabama threatened to deny operators all contact with the pumps and valves needed to control the plant, nuclear regulators did not give much thought to fire.
+
+That blaze, the only major one to date in the history of the United States nuclear industry, could have led to a meltdown. Yet in decades since, progress in fire safety has been halting.
+
+An early solution was to install thousands of feet of fire barriers that were supposed to last for three hours. But the barriers were later shown to fail in a far shorter time.
+
+So plants have compensated with watchmen like Mr. Baldwin and with other workers who would race to various points and operate pumps and valves manually should the electrical cables that link them to the control room burn away.
+
+“We’ve never really put that issue to bed,” said Gregory B. Jaczko, who took over in May as chairman of the Nuclear Regulatory Commission and who has made fire protection a priority.
+
+In the years after the 1975 Browns Ferry fire, caused by an electrician who used a candle to search for an air leak, the commission instituted some highly specific rules.
+
+The plants already had backup systems. But the commission decided that cables that ran from the control room to, say, redundant pumps would have to follow different routes. The cables would also have to be separated by a specified distance or have a fire barrier between them.
+
+Some plants met the letter of the rules. Others, like Shearon Harris, were allowed to keep running if they took compensatory steps like dispatching the fire patrols, or designating workers who would take manual control of the pumps and valves.The shift to analyzing risk is welcomed by much of the nuclear industry but not by some of its critics.
+
+Edwin S. Lyman, a senior scientist at the Union of Concerned Scientists, a group that focuses on environmental safety, said analysts could not always anticipate the full range of risks at a given plant.
+
+“The approach the commission wants to take is to wave a magic wand of probabilistic risk assessment and make a lot of the requirements go away,” Dr. Lyman said.
+
+To assess fire risk, engineers typically study diagrams of the plant and try to identify each problem that could occur and how likely it was to happen. In some locations, for example, inspectors or the plant workers have figured out that while the commission’s rules require a one-hour fire barrier, the material installed will not last that long.
+
+Plants like Shearon Harris and a three-reactor plant in Oconee County, S.C., are now analyzing exactly how much combustible material is in each location and whether a fire on the floor could grow hot enough to burn a cable in an overhead tray. A perennial concern is that a fire could cause an electric current to leak from one cable to another, causing a short circuit that makes a pump start or stop. At Shearon Harris, owned by Progress Energy, engineers have reduced that risk by arranging to cut power to the motor that moves a valve, ensuring that it stayed put.
+
+At Oconee, owned by Duke Energy, engineers determined that a large fraction of the plant’s fire risk came from electrical buses in the turbine hall, near the plant’s control room. That raised the possibility that a fire there could force the operators to abandon the control room and shut the reactor down from a remote location. The engineers recommended that the buses be moved. Still, critics like Dr. Lyman say that estimating the risk of an event that could lead to a fire is difficult because the record of such incidents is so thin.
+
+“We need ‘defense in depth’ to compensate for what we don’t know,” he said, borrowing a phrase that the nuclear industry itself uses to promote its standard safety rules.
+
+But Dr. Jaczko, the commission chairman, said he was encouraged that so many plants were taking the risk-assessment route rather than sticking to the current standard.
+
+Fire protection is “one of those longstanding issues that finally needs to resolved,” he said.

@@ -1,0 +1,55 @@
+ Timothy Geithner, Ben Bernanke and President Obama have been trying to persuade us that the latest financial rescue plan is meant to help us, not Wall Street. The goal, as Mr. Geithner said Monday, is to fix the markets for “small-business lending, large-business borrowing, consumer borrowing, auto finance, student loans, et cetera.”
+
+But here’s a question: Do you know many people who want a loan and can’t get one?
+
+Probably not.
+
+After all, the number of homeowners refinancing their mortgages has tripled over the last few months. The salesmen at my local Toyota dealership tell me that getting a car loan is not a problem. No large company has failed to meet its weekly payroll, as Mr. Obama warned last year might happen. Indeed, if you try to come up with a single prominent victim of the credit squeeze on Main Street — as opposed to victims of the recession — you will have a hard time.
+
+This creates a big political problem for the Obama administration and the Federal Reserve. Policy makers are deeply worried that public opinion will eventually cause Congress to abandon the rescue plan. That’s why they keep trying to connect the financial crisis to the day-to-day economy.
+
+But their examples tend to be hypothetical — hypothetical businesses that can’t expand or hypothetical families who can’t borrow. Meanwhile, Wall Street is benefiting from the bailout in concrete ways. A.I.G. traders receive bonuses. Money managers like BlackRock will receive subsidies in the latest bailout. As a banner on CNN put it on Monday afternoon, “Bankers Get Billions.”
+
+So over the last few weeks, I’ve set out to figure out just how the financial crisis is — and is not — affecting Main Street. There is no doubt that the economy is in terrible shape. The overall volume of loans is, in fact, falling. But is that because banks won’t lend? Or because businesses and families don’t want to borrow?
+
+“You can bring the horse to water, but they may not drink,” the bond investor Bill Gross recently told The Wall Street Journal, referring to the government’s efforts to increase lending.
+
+Today, I’m going to focus on one industry: the car rental business. It is a simple enough business, and it seems to be suffering from the credit squeeze. This month, Hertz, Enterprise and the Avis Budget Group successfully lobbied the Treasury Department to be eligible for loans from the bailout fund.
+
+Yet the picture isn’t a simple one. The worst problem facing the car rental business, at least for now, is not a lack of credit.
+
+And you can say the same thing about the broader economy, which helps clarify the precise task that’s facing the White House and the Fed.
+
+The car rental industry’s original sin isn’t so different from the economy’s. It took on too much debt.
+
+The old Cendant Corporation loaded up Avis with debt before spinning it off as a separate company in 2005. Three private equity firms, including the Carlyle Group and a Merrill Lynch division, did something similar to Hertz the next year. The firms bought Hertz from the Ford Motor Company, piled on debt (largely to pay themselves $1 billion in deal fees — lovely, eh?) and then took the company public.
+
+These debts mean that the companies cannot take out the low-interest loans that a healthier company can. Instead, they must turn to the asset-backed securities market, where loans are split into little pieces and investors with an appetite for risk buy them. Avis and Hertz then get the money they need to buy cars for their fleets, in exchange for paying interest to the investors.
+
+The mortgage market relied on the same trick, of course, and now that so many mortgage-backed securities have gone bust, the market for other asset-backed securities is moribund. Investors have lost their appetite for risk.
+
+Late last year, when Avis tried to renew a $1.35 billion credit line, it ran into trouble. It eventually managed to get the loan, but only at a steep interest rate. The interest on the full credit line will cost $40 million a year more than the interest on the old credit line. For comparison, Avis’s entire cash earnings last year were only $169 million.
+
+Even so, Ron Nelson, the company’s chief executive, recently said that the mere fact that it was able to renew the loan was “our most critical accomplishment” in the fourth quarter. Without loans, the rental companies can’t buy cars, and without cars, they don’t have much of a business.
+
+But here’s where the story gets complicated. Hertz has plenty of available cash, because none of its credit lines have come due recently. Enterprise, which is in better financial shape, hasn’t been squeezed either. Yet both companies are sharply cutting their vehicle purchases.
+
+Overall industry purchases are down 63 percent relative to early last year, and all three companies have also laid off workers.
+
+Why? Because the economy is in terrible shape. Fewer people are traveling and renting cars. The companies already own too many cars, thanks to the sweetheart deals that Detroit offered in recent years to clear out its bloated inventory. “From our standpoint, there is no liquidity crisis,” says Patrick Farrell, an Enterprise vice president. “We’re buying fewer cars because we need fewer cars.”
+
+All this makes for a wonderful microcosm. The rental car business has been hurt by the credit squeeze. But it has bigger problems. And the company most affected by the squeeze, Avis, isn’t eager to talk in detail about it, presumably out of fear that more attention will further spook lenders.
+
+The same dynamic is at work with small businesses. Many are struggling to get financing but are afraid to be identified publicly as a spurned borrower. Instead, they are quietly cobbling together loans any way they can and hoping the squeeze eases soon.
+
+If it doesn’t, they — and a whole lot of other businesses — will be in trouble. Hertz has a credit line of about $2 billion coming due next year. Avis has more than $4 billion expiring over the next four years. At the current high interest rates, the costs would be crushing.
+
+So it’s true that the credit crunch, for most households and businesses, isn’t yet a crisis. But that’s partly because of the steps the government has already taken, and without more progress, the crunch will become a crisis. The bailout, therefore, needs to continue.
+
+Mr. Geithner’s new plan is meant to rid banks of those toxic securities and make bankers confident enough to lend more. Even if the plan works, the government may still need to take over the weakest banks. Mr. Geithner’s request on Tuesday for new powers seemed to be laying the groundwork for such takeovers.
+
+But no bailout can fix the economy by itself.
+
+In coming days, Congress will be debating the federal budget, and some members are threatening to reduce spending for next year in ways that would undercut the stimulus bill. At the G-20 summit meeting next week, meanwhile, European leaders have signaled that they will resist calls from the Americans and Chinese to get serious about their own stimulus programs.
+
+The moral of the car rental story is that this isn’t the time for thrift. If people aren’t renting cars, Avis, Hertz and Enterprise won’t buy cars. And if the global economy doesn’t get some more help, the various bailouts won’t be able to end the recession on their own.
