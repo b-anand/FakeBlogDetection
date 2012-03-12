@@ -40,7 +40,7 @@ def add_ngrams_vocab(path, global_vocab):
                 ngram = data[i:i + parameters.ngram_size]
                 local_vocab[ngram] += 1
             log.debug('Done vocab processing for entry {0}'.format(file_name))
-        local_filtered_vocab = [key for key, value in local_vocab.items() if value > parameters.ngram_min_frequency]
+        local_filtered_vocab = sorted(local_vocab, key=local_vocab.get, reverse=True)[:min(parameters.ngram_per_label, len(local_vocab))]
         global_vocab.extend(local_filtered_vocab)
 
 def build_vocab():
@@ -58,7 +58,7 @@ def save_file_vector(file_path, vocab, out_file_path, header):
         out_file = csv.writer(out_file_handle)
         out_file.writerow(header)
         data = preprocess_file(file_path, vocab)
-        for mu in np.arange(0, 1, 1. / (parameters.pivot_count+1))[1:]: 
+        for mu in np.arange(0, 1, 1. / (parameters.pivot_count + 1))[1:]: 
             result = lowbow_single(data, vocab, mu, parameters.c, parameters.sigma)
             out_file.writerow(list(result))
             log.debug("Got vector for mu={0}".format(mu))
@@ -88,7 +88,7 @@ def save_dataset(data_class, vocab):
 def save_parameters():
     out_value = '''Parameters used for generating this data:
 ngram_size = {0}
-ngram_min_frequency = {1}
+ngram_per_label = {1}
 sigma = {2}
 c = {3}
 local_hist_discount_factor = {4}
@@ -97,15 +97,18 @@ topics = {6}
 pivot_count = {7} # number of mu values to be considered
 out_root = {8}
 '''.format(
-           parameters.ngram_size, 
-           parameters.ngram_min_frequency, 
-           parameters.sigma, 
-           parameters.c, 
-           parameters.local_hist_discount_factor, 
-           parameters.data_root, 
-           parameters.topics, 
-           parameters.pivot_count, 
+           parameters.ngram_size,
+           parameters.ngram_per_label,
+           parameters.sigma,
+           parameters.c,
+           parameters.local_hist_discount_factor,
+           parameters.data_root,
+           parameters.topics,
+           parameters.pivot_count,
            parameters.out_root)
+    
+    if not os.path.exists(parameters.out_root):
+        os.makedirs(parameters.out_root)
     
     with open(os.path.join(parameters.out_root, 'Parameters.txt'), 'w+') as param_file:
         param_file.write(out_value)
