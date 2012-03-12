@@ -1,0 +1,15 @@
+'''
+Created on Mar 11, 2012
+
+@author: ab2283
+'''
+
+ngram_size = 3
+ngram_min_frequency = 15
+sigma = 0.1
+c = 0.005
+local_hist_discount_factor = 0.6
+data_root = r'Z:\FakeBlogDetection\Dataset'
+topics = ['authorship_poetry', 'rawdata_cric', 'rawdata_fin', 'rawdata_nfl', 'rawdata_travel']
+pivot_count = 2 # number of mu values to be considered
+out_root = r'Z:\FakeBlogDetection\ProcessedDataset'

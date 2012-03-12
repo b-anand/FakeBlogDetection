@@ -13,7 +13,8 @@ import math
 def bounded_gaussian_kernel(vals, mu, sigma):
     mu *= 1.
     sigma *= 1.
-    return [norm(loc=mu, scale=sigma).pdf(x) / (norm.cdf((1 - mu) / sigma) - norm.cdf((-mu) / sigma)) if x >= 0 and x <= 1 else 0 for x in vals]
+    rv = norm(loc=mu, scale=sigma)
+    return [rv.pdf(x) / (rv.cdf(1) - rv.cdf(0)) if x >= 0 and x <= 1 else 0 for x in vals]
 
 def simple_step(x, j, data, vocab, c, mu, sigma):
     n = len(data)
@@ -22,6 +23,20 @@ def simple_step(x, j, data, vocab, c, mu, sigma):
     value = (1 + c) / (1 + c * v) if data[i] == vocab[j] else c / (1 + c * v) 
     value = value * bounded_gaussian_kernel([x], mu, sigma)[0]
     return value
+
+def lowbow_single(data, vocab, mu, c, sigma):
+    '''
+    data: has to contain tokens which only occur in the vocabulary
+    '''
+    
+    result_vector = []
+    v = len(vocab)
+    for i in range(v):
+        args = (i, data, vocab, c, mu, sigma)
+        results = integrate.quad(simple_step, 0, 1, args); 
+        result_vector.append(results[0])
+    return np.array(result_vector)
+    
 
 def lowbow_test():
     data = [1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1]
