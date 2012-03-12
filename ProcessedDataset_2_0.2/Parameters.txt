@@ -1,0 +1,10 @@
+Parameters used for generating this data:
+ngram_size = 3
+ngram_per_label = 25
+sigma = 0.2
+c = 0.005
+local_hist_discount_factor = 0.6
+data_root = Z:\FakeBlogDetection\Dataset
+topics = ['authorship_poetry', 'rawdata_cric', 'rawdata_fin', 'rawdata_nfl', 'rawdata_travel']
+pivot_count = 2 # number of mu values to be considered
+out_root = Z:\FakeBlogDetection\ProcessedDataset_2_0.2
