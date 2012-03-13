@@ -21,7 +21,7 @@ def simple_step(x, j, data, vocab, c, mu, sigma):
     v = len(vocab)
     i = int(math.floor(x * n))
     value = (1 + c) / (1 + c * v) if data[i] == vocab[j] else c / (1 + c * v) 
-    value = value * bounded_gaussian_kernel([x], mu, sigma)[0]
+    value *= bounded_gaussian_kernel([x], mu, sigma)[0]
     return value
 
 def lowbow_single(data, vocab, mu, c, sigma):
@@ -31,13 +31,25 @@ def lowbow_single(data, vocab, mu, c, sigma):
     
     result_vector = []
     v = len(vocab)
+    step = min(0.001, 1. / (len(data)+1))
     for i in range(v):
         args = (i, data, vocab, c, mu, sigma)
-        results = integrate.quad(simple_step, 0, 1, args); 
-        result_vector.append(results[0])
+        result = integrate_range(simple_step, 0, 1, step, args);
+        result_vector.append(result)
     return np.array(result_vector)
     
 
+def integrate_range(step_func, start, end, step, *args):
+    '''
+    args: all the function arguments needs to be a separate tuple.
+    '''
+    steps = np.arange(start, end, step)
+    total = 0.
+    args = args[0] if len(args) > 0 else args
+    for x in steps:
+        total += step_func(x, *args) * step
+    return total
+        
 def lowbow_test():
     data = [1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1]
     vocab = list(set(data))
@@ -49,9 +61,10 @@ def lowbow_test():
     steps = np.arange(0, 1, step)
     for mu in steps:
         args = (j, data, vocab, c, mu, sigma)
-        results = integrate.quad(simple_step, 0, 1, args); 
-        values.append(results[0])
-        print mu
+        result = integrate_range(simple_step, 0, 1, 0.001, args);
+        #result = integrate.romberg(simple_step, 0, 0.9999999, args) 
+        values.append(result)
+        print mu, result
     plt.plot(steps, values)
     plt.show()
 

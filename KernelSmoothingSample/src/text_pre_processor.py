@@ -85,6 +85,39 @@ def save_dataset(data_class, vocab):
                 
     log.debug('done with {0}ing data'.format(data_class))
 
+def get_all_ngrams(file_path):
+    with open(file_path, 'r') as f:
+        data = f.read()
+    num_ngram = len(data) - parameters.ngram_size - 1
+    return [data[i:i+parameters.ngram_size] for i in range(num_ngram)]
+
+def save_dataset_total(data_class, vocab):
+    log.debug('total: starting with {0}ing data'.format(data_class))
+    csv_out_path = os.path.join(parameters.out_root, '{0}_data.csv'.format(data_class))
+    file_count = len([file for root, subFolders, files in os.walk(parameters.data_root) for file in files if data_class in root])
+    cnt = 1
+    with open(csv_out_path, 'w+') as out_file_handle:
+        out_file = csv.writer(out_file_handle)
+        for topic in parameters.topics:
+            path = os.path.join(parameters.data_root, topic)
+            if os.path.exists(path):
+                actual_path = os.path.join(path, data_class)
+                for label in os.listdir(actual_path):
+                    label_path = os.path.join(actual_path, label)
+                    for file_name in os.listdir(label_path):
+                        log.debug("Saving vectors for file {0}, {1}/{2}".format(file_name, cnt, file_count))
+                        file_path = os.path.join(label_path, file_name)
+                        data = preprocess_file(file_path, vocab)
+                        attributes = []
+                        for mu in np.arange(0, 1, 1. / (parameters.pivot_count + 1))[1:]: 
+                            result = list(lowbow_single(data, vocab, mu, parameters.c, parameters.sigma))
+                            attributes.extend(result)
+                            log.debug("Got vector for mu={0}".format(mu))
+                        out_file.writerow(attributes + [label])
+                        cnt += 1
+                        
+
+
 def save_parameters():
     out_value = '''Parameters used for generating this data:
 ngram_size = {0}
@@ -116,7 +149,7 @@ out_root = {8}
     log.debug('Saved parameters')
 
 if __name__ == '__main__':
-    save_parameters()
     vocab = build_vocab()
-    save_dataset('train', vocab)
-    save_dataset('test', vocab)
+    save_parameters()
+    save_dataset_total('train', vocab)
+    save_dataset_total('test', vocab)
