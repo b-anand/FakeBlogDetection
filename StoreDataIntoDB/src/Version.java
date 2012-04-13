@@ -19,11 +19,14 @@ import org.xml.sax.SAXException;
 
 public class Version {
 
-	private static String dataPath = "Z:\\FakeBlogDetection\\CompressedDataset\\blogDataSet\\";
+	private static String dataPath = "Z:\\blogDataSet\\";
 
 	private static void readDataFromFiles(String path) {
 		File folder = new File(path);
-		for (File f : folder.listFiles()) {
+		File[] files = folder.listFiles();
+		int length = files.length;
+		int count = 0;
+		for (File f : files) {
 			try {
 				DocumentBuilderFactory dbFactory = DocumentBuilderFactory
 						.newInstance();
@@ -35,7 +38,7 @@ public class Version {
 				NodeList nl = doc.getDocumentElement().getElementsByTagName(
 						"description");
 				String text = "";
-				for (int i = 0; i < nl.getLength(); i++) {
+				for (int i = 1; i < nl.getLength(); i++) {
 					text += nl.item(i).getTextContent();
 				}
 				Pattern pattern = Pattern.compile("\\p{Alpha}+");
@@ -49,13 +52,13 @@ public class Version {
 				}
 				int id = new Integer(f.getName().split(".xml")[0]).intValue();
 				addData(id, newText);
-				System.out.println(id);
+				System.out.println(count + "/" + length);
+				// System.out.println(newText);
 			} catch (SAXException | IOException | ParserConfigurationException e) {
 				// e.printStackTrace();
 			}
-
+			count++;
 		}
-
 	}
 
 	public static void main(String[] args) {
@@ -67,7 +70,7 @@ public class Version {
 
 		String url = "jdbc:mysql://localhost:3306/blogdata";
 		String user = "root";
-		String password = "nlp";
+		String password = "root";
 
 		try {
 			con = DriverManager.getConnection(url, user, password);
