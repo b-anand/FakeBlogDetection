@@ -4,11 +4,12 @@ Created on Apr 21, 2012
 @author: ab2283
 '''
 from bs4 import BeautifulSoup
-from HTMLParser import HTMLParseError
 import re
 import urllib3
+import sys
+
 path = "Z:/FakeBlogDetection/CompressedDataset/good_blogs_list.tsv"
-outpath = "Z:/FakeBlogDetection/CompressedDataset/good_blogs_feed_list.txt"
+outpath = "Z:/FakeBlogDetection/CompressedDataset/good_blog_feeds/good_blogs_feed_list_{0}_{1}.txt"
 
 def get_rss_feed_url(data, main_url):
     feed_urls = []
@@ -46,14 +47,18 @@ if __name__ == '__main__':
     with open(path) as f:
         lines = [ line.split("\t")[1] for line in f.readlines() if len(line) > 0 and not line.startswith("#") and len(line.split("\t")) == 3]
     
+    start_index = int(sys.argv[1])
+    count = int(sys.argv[2])
+    end_index = start_index + count
+    outpath = outpath.format(start_index, count)
     length = len(lines)
     http = urllib3.PoolManager()
     with open(outpath, "w") as outfile:
-        for i, url in enumerate(lines):
-            print i, "/", length
+        for i, url in enumerate(lines[start_index:end_index]):
+            print i, "/", length, url
             try:
-                response = http.request('GET', url.encode('ascii'))
-            except urllib3.exceptions.MaxRetryError:
+                response = http.request('GET', url)
+            except:
                 continue
             
             flag = False
@@ -64,7 +69,7 @@ if __name__ == '__main__':
                     feed = rss_tag.get('href')
                     feed = [url, feed]
                     flag = True
-            except HTMLParseError:
+            except:
                 flag = False
             
             if flag == False:
