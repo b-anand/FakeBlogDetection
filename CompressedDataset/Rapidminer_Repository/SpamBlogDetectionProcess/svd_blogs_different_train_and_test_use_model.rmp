@@ -19,24 +19,24 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 3200/3683 limit 3000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 10500/21424 limit 10000)"/>
+        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 3000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 5500/21424 limit 10000)"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
         <parameter key="datamanagement" value="double_array"/>
       </operator>
       <operator activated="true" class="retrieve" compatibility="5.2.003" expanded="true" height="60" name="Retrieve" width="90" x="193" y="71">
-        <parameter key="repository_entry" value="../SpamBlogDetectionData/word_list_3000_bad_10000_good"/>
+        <parameter key="repository_entry" value="../SpamBlogDetectionData/word_list_1000_bad_10000_good"/>
       </operator>
       <operator activated="true" class="retrieve" compatibility="5.2.003" expanded="true" height="60" name="Retrieve (2)" width="90" x="380" y="75">
-        <parameter key="repository_entry" value="../SpamBlogDetectionData/model_3000_bad_10000_good"/>
+        <parameter key="repository_entry" value="../SpamBlogDetectionData/model_1000_bad_10000_good"/>
       </operator>
       <operator activated="true" class="set_role" compatibility="5.2.003" expanded="true" height="76" name="Set Role (2)" width="90" x="179" y="210">
         <parameter key="name" value="blogtype"/>
         <parameter key="target_role" value="label"/>
         <list key="set_additional_roles"/>
       </operator>
-      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.001" expanded="true" height="76" name="Process Documents from Data (2)" width="90" x="313" y="210">
+      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.002" expanded="true" height="76" name="Process Documents from Data (2)" width="90" x="313" y="210">
         <parameter key="create_word_vector" value="true"/>
         <parameter key="vector_creation" value="Binary Term Occurrences"/>
         <parameter key="add_meta_information" value="true"/>
@@ -53,22 +53,22 @@
         <list key="specify_weights"/>
         <parameter key="parallelize_vector_creation" value="false"/>
         <process expanded="true" height="618" width="710">
-          <operator activated="true" class="text:transform_cases" compatibility="5.2.001" expanded="true" height="60" name="Transform Cases (2)" width="90" x="45" y="30">
+          <operator activated="true" class="text:transform_cases" compatibility="5.2.002" expanded="true" height="60" name="Transform Cases (2)" width="90" x="45" y="30">
             <parameter key="transform_to" value="lower case"/>
           </operator>
-          <operator activated="true" class="text:tokenize" compatibility="5.2.001" expanded="true" height="60" name="Tokenize (2)" width="90" x="180" y="30">
+          <operator activated="true" class="text:tokenize" compatibility="5.2.002" expanded="true" height="60" name="Tokenize (2)" width="90" x="180" y="30">
             <parameter key="mode" value="non letters"/>
             <parameter key="characters" value=".:"/>
             <parameter key="expression" value="[\W]+"/>
             <parameter key="language" value="English"/>
             <parameter key="max_token_length" value="3"/>
           </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.001" expanded="true" height="60" name="Filter Stopwords (2)" width="90" x="315" y="30"/>
-          <operator activated="true" class="text:filter_by_length" compatibility="5.2.001" expanded="true" height="60" name="Filter Tokens (2)" width="90" x="447" y="30">
+          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.002" expanded="true" height="60" name="Filter Stopwords (2)" width="90" x="315" y="30"/>
+          <operator activated="true" class="text:filter_by_length" compatibility="5.2.002" expanded="true" height="60" name="Filter Tokens (2)" width="90" x="447" y="30">
             <parameter key="min_chars" value="3"/>
             <parameter key="max_chars" value="500"/>
           </operator>
-          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.001" expanded="true" height="60" name="Generate n-Grams (2)" width="90" x="581" y="165">
+          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.002" expanded="true" height="60" name="Generate n-Grams (2)" width="90" x="581" y="165">
             <parameter key="max_length" value="3"/>
           </operator>
           <connect from_port="document" to_op="Transform Cases (2)" to_port="document"/>
