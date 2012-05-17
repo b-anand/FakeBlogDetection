@@ -19,7 +19,7 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 1000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 10500/21424 limit 10000)"/>
+        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 55/3683 limit 50)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 250/21424 limit 200)"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
@@ -32,7 +32,7 @@
       </operator>
       <operator activated="true" class="text:process_document_from_data" compatibility="5.2.002" expanded="true" height="76" name="Process Documents from Data" width="90" x="315" y="30">
         <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="Binary Term Occurrences"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
         <parameter key="add_meta_information" value="true"/>
         <parameter key="keep_text" value="false"/>
         <parameter key="prune_method" value="percentual"/>
@@ -76,7 +76,7 @@
         </process>
       </operator>
       <operator activated="true" class="store" compatibility="5.2.003" expanded="true" height="60" name="Store" width="90" x="447" y="120">
-        <parameter key="repository_entry" value="word_list_1000_bad_10000_good"/>
+        <parameter key="repository_entry" value="../SpamBlogDetectionData/word_list_tfidf_50_bad_200_good"/>
       </operator>
       <operator activated="true" class="support_vector_machine" compatibility="5.2.003" expanded="true" height="112" name="SVM (2)" width="90" x="581" y="30">
         <parameter key="kernel_type" value="dot"/>
@@ -106,7 +106,7 @@
         <parameter key="estimate_performance" value="false"/>
       </operator>
       <operator activated="true" class="store" compatibility="5.2.003" expanded="true" height="60" name="Store (2)" width="90" x="715" y="120">
-        <parameter key="repository_entry" value="model_1000_bad_10000_good"/>
+        <parameter key="repository_entry" value="../SpamBlogDetectionData/model_tfidf_50_bad_200_good"/>
       </operator>
       <connect from_op="Read Database (2)" from_port="output" to_op="Set Role" to_port="example set input"/>
       <connect from_op="Set Role" from_port="example set output" to_op="Process Documents from Data" to_port="example set"/>

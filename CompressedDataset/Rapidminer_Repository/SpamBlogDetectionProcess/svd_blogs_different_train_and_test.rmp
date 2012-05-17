@@ -19,7 +19,7 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 1000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 10500/21424 limit 10000)"/>
+        <parameter key="query" value="(select '0' as blogtype, text from (select * from blogdata.baddata where blogdata.baddata.id &lt; 1000) as tempbaddata where rand() &lt;= 600/1000 limit 500)&#10;union all &#10;(select '1' as blogtype, text from (select * from blogdata.gooddata where blogdata.gooddata.id &lt; 10000) as tempgooddata where rand() &lt;= 600/10000 limit 500)"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
@@ -30,9 +30,9 @@
         <parameter key="target_role" value="label"/>
         <list key="set_additional_roles"/>
       </operator>
-      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.001" expanded="true" height="76" name="Process Documents from Data" width="90" x="313" y="30">
+      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.002" expanded="true" height="76" name="Process Documents from Data" width="90" x="313" y="30">
         <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="Binary Term Occurrences"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
         <parameter key="add_meta_information" value="true"/>
         <parameter key="keep_text" value="false"/>
         <parameter key="prune_method" value="percentual"/>
@@ -47,22 +47,22 @@
         <list key="specify_weights"/>
         <parameter key="parallelize_vector_creation" value="false"/>
         <process expanded="true" height="594" width="681">
-          <operator activated="true" class="text:transform_cases" compatibility="5.2.001" expanded="true" height="60" name="Transform Cases" width="90" x="45" y="30">
+          <operator activated="true" class="text:transform_cases" compatibility="5.2.002" expanded="true" height="60" name="Transform Cases" width="90" x="45" y="30">
             <parameter key="transform_to" value="lower case"/>
           </operator>
-          <operator activated="true" class="text:tokenize" compatibility="5.2.001" expanded="true" height="60" name="Tokenize" width="90" x="180" y="30">
+          <operator activated="true" class="text:tokenize" compatibility="5.2.002" expanded="true" height="60" name="Tokenize" width="90" x="180" y="30">
             <parameter key="mode" value="non letters"/>
             <parameter key="characters" value=".:"/>
             <parameter key="expression" value="[\W]+"/>
             <parameter key="language" value="English"/>
             <parameter key="max_token_length" value="3"/>
           </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.001" expanded="true" height="60" name="Filter Stopwords (English)" width="90" x="315" y="30"/>
-          <operator activated="true" class="text:filter_by_length" compatibility="5.2.001" expanded="true" height="60" name="Filter Tokens (by Length)" width="90" x="447" y="30">
+          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.002" expanded="true" height="60" name="Filter Stopwords (English)" width="90" x="315" y="30"/>
+          <operator activated="true" class="text:filter_by_length" compatibility="5.2.002" expanded="true" height="60" name="Filter Tokens (by Length)" width="90" x="447" y="30">
             <parameter key="min_chars" value="3"/>
             <parameter key="max_chars" value="500"/>
           </operator>
-          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.001" expanded="true" height="60" name="Generate n-Grams (Terms)" width="90" x="514" y="165">
+          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.002" expanded="true" height="60" name="Generate n-Grams (Terms)" width="90" x="514" y="165">
             <parameter key="max_length" value="3"/>
           </operator>
           <connect from_port="document" to_op="Transform Cases" to_port="document"/>
@@ -80,7 +80,7 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 1000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 1200/21424 limit 1000)"/>
+        <parameter key="query" value="select '0' as blogtype, text from blogdata.baddata where blogdata.baddata.id &gt; 1000 and blogdata.baddata.id &lt; 2000&#10;union all &#10;select '1' as blogtype, text from blogdata.gooddata where blogdata.gooddata.id &gt; 10000 and blogdata.gooddata.id &lt; 20000"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
@@ -91,9 +91,9 @@
         <parameter key="target_role" value="label"/>
         <list key="set_additional_roles"/>
       </operator>
-      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.001" expanded="true" height="76" name="Process Documents from Data (2)" width="90" x="313" y="255">
+      <operator activated="true" class="text:process_document_from_data" compatibility="5.2.002" expanded="true" height="76" name="Process Documents from Data (2)" width="90" x="313" y="255">
         <parameter key="create_word_vector" value="true"/>
-        <parameter key="vector_creation" value="Binary Term Occurrences"/>
+        <parameter key="vector_creation" value="TF-IDF"/>
         <parameter key="add_meta_information" value="true"/>
         <parameter key="keep_text" value="false"/>
         <parameter key="prune_method" value="percentual"/>
@@ -108,22 +108,22 @@
         <list key="specify_weights"/>
         <parameter key="parallelize_vector_creation" value="false"/>
         <process expanded="true" height="618" width="710">
-          <operator activated="true" class="text:transform_cases" compatibility="5.2.001" expanded="true" height="60" name="Transform Cases (2)" width="90" x="45" y="30">
+          <operator activated="true" class="text:transform_cases" compatibility="5.2.002" expanded="true" height="60" name="Transform Cases (2)" width="90" x="45" y="30">
             <parameter key="transform_to" value="lower case"/>
           </operator>
-          <operator activated="true" class="text:tokenize" compatibility="5.2.001" expanded="true" height="60" name="Tokenize (2)" width="90" x="180" y="30">
+          <operator activated="true" class="text:tokenize" compatibility="5.2.002" expanded="true" height="60" name="Tokenize (2)" width="90" x="180" y="30">
             <parameter key="mode" value="non letters"/>
             <parameter key="characters" value=".:"/>
             <parameter key="expression" value="[\W]+"/>
             <parameter key="language" value="English"/>
             <parameter key="max_token_length" value="3"/>
           </operator>
-          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.001" expanded="true" height="60" name="Filter Stopwords (2)" width="90" x="315" y="30"/>
-          <operator activated="true" class="text:filter_by_length" compatibility="5.2.001" expanded="true" height="60" name="Filter Tokens (2)" width="90" x="447" y="30">
+          <operator activated="true" class="text:filter_stopwords_english" compatibility="5.2.002" expanded="true" height="60" name="Filter Stopwords (2)" width="90" x="315" y="30"/>
+          <operator activated="true" class="text:filter_by_length" compatibility="5.2.002" expanded="true" height="60" name="Filter Tokens (2)" width="90" x="447" y="30">
             <parameter key="min_chars" value="3"/>
             <parameter key="max_chars" value="500"/>
           </operator>
-          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.001" expanded="true" height="60" name="Generate n-Grams (2)" width="90" x="581" y="165">
+          <operator activated="false" class="text:generate_n_grams_terms" compatibility="5.2.002" expanded="true" height="60" name="Generate n-Grams (2)" width="90" x="581" y="165">
             <parameter key="max_length" value="3"/>
           </operator>
           <connect from_port="document" to_op="Transform Cases (2)" to_port="document"/>
@@ -175,7 +175,7 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="select text, '0' as blogtype from baddata where baddata.id &lt; 1000&#10;union all &#10;select text, '1' as blogtype from gooddata where gooddata.id &lt; 1000&#10;&#10;(select '0' as blogtype, text from (select * from blogdata.baddata where blogdata.baddata.id &lt; 1000) as tempbaddata where rand() &lt;= 600/1000 limit 500)&#10;union all &#10;(select '1' as blogtype, text from (select * from blogdata.gooddata where blogdata.gooddata.id &lt; 10000) as tempgooddata where rand() &lt;= 600/10000 limit 500)"/>
+        <parameter key="query" value="select text, '0' as blogtype from baddata where baddata.id &lt; 1000&#10;union all &#10;select text, '1' as blogtype from gooddata where gooddata.id &lt; 1000&#10;&#10;(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 1000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 10500/21424 limit 10000)&#10;&#10;(select '0' as blogtype, text from (select * from blogdata.baddata where blogdata.baddata.id &lt; 1000) as tempbaddata where rand() &lt;= 600/1000 limit 500)&#10;union all &#10;(select '1' as blogtype, text from (select * from blogdata.gooddata where blogdata.gooddata.id &lt; 10000) as tempgooddata where rand() &lt;= 600/10000 limit 500)"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
@@ -186,7 +186,7 @@
         <parameter key="connection" value="mysql-local"/>
         <parameter key="database_system" value="MySQL"/>
         <parameter key="define_query" value="query"/>
-        <parameter key="query" value="select text, '0' as blogtype from baddata where baddata.id &gt; 1000 and baddata.id &lt; 3000&#10;union all &#10;select text, '1' as blogtype from gooddata where gooddata.id &gt; 2000 and gooddata.id &lt; 5000\&#10;&#10;(select '0' as blogtype, text from (select * from blogdata.baddata where blogdata.baddata.id &gt; 1000 and blogdata.baddata.id &lt; 2000) as tempbaddata where rand() &lt;= 600/1000 limit 500)&#10;union all &#10;(select '1' as blogtype, text from (select * from blogdata.gooddata where blogdata.gooddata.id &gt; 10000 and blogdata.gooddata.id &lt; 20000) as tempgooddata where rand() &lt;= 600/10000 limit 500)"/>
+        <parameter key="query" value="select text, '0' as blogtype from baddata where baddata.id &gt; 1000 and baddata.id &lt; 3000&#10;union all &#10;select text, '1' as blogtype from gooddata where gooddata.id &gt; 2000 and gooddata.id &lt; 5000&#10;&#10;(select '0' as blogtype, text from blogdata.baddata where rand() &lt;= 1200/3683 limit 1000)&#10;union all &#10;(select '1' as blogtype, text from blogdata.gooddata where rand() &lt;= 1200/21424 limit 1000)&#10;&#10;(select '0' as blogtype, text from (select * from blogdata.baddata where blogdata.baddata.id &gt; 1000 and blogdata.baddata.id &lt; 2000) as tempbaddata where rand() &lt;= 600/1000 limit 500)&#10;union all &#10;(select '1' as blogtype, text from (select * from blogdata.gooddata where blogdata.gooddata.id &gt; 10000 and blogdata.gooddata.id &lt; 20000) as tempgooddata where rand() &lt;= 600/10000 limit 500)"/>
         <parameter key="use_default_schema" value="true"/>
         <parameter key="prepare_statement" value="false"/>
         <enumeration key="parameters"/>
